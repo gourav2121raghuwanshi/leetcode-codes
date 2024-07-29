@@ -1,23 +1,25 @@
 class Solution {
-    int dp[1001][1002][2][3];
-    
-    int  solve(int i,int prev,bool inc,int cnt,vector<int>& rating){
-        if(cnt==3) return 1;
-        if(i>=rating.size()) return 0;
-        if(dp[i][prev+1][inc][cnt]!=-1) return dp[i][prev+1][inc][cnt];
-        int ans=0;
-        if(prev==-1 || ( inc && rating[i] > rating[prev] ) || ( inc==false && rating[i] < rating[prev])){
-              ans+=solve(i+1,i,inc,1+cnt,rating);
-        }
-        int ntake=solve(i+1,prev,inc,cnt,rating);
-        ans+=ntake;
-        return  dp[i][prev+1][inc][cnt]=ans;
-        
-        
-    }
 public:
     int numTeams(vector<int>& rating) {
-        memset(dp,-1,sizeof(dp));
-        return solve(0,-1,true,0,rating)+solve(0,-1,false,0,rating);
+        int ans = 0;
+        int n=rating.size();
+        for (int i = 0; i < n; ++i) {
+            int ls = 0, rs = 0;
+            int ll = 0, rl = 0;
+            for (int j = 0; j < i; ++j) {
+                if (rating[j] < rating[i])
+                    ++ls;
+                else if (rating[j] > rating[i])
+                    ++ll;
+            }
+            for (int j = i + 1; j < n; ++j) {
+                if (rating[j] < rating[i])
+                    ++rs;
+                else if (rating[j] > rating[i])
+                    ++rl;
+            }
+            ans += ls * rl + ll * rs;
+        }
+        return ans;
     }
 };
