@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0040-combination-sum-ii) |
 | [1511-count-number-of-teams](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1511-count-number-of-teams) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 ## Hash Table
@@ -66,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
