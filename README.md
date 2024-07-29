@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0045-jump-game-ii) |
 | [1511-count-number-of-teams](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1511-count-number-of-teams) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0045-jump-game-ii) |
 | [1511-count-number-of-teams](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0045-jump-game-ii) |
 ## Sorting
 |  |
 | ------- |
