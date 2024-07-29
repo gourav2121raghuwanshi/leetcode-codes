@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0909-stone-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0954-maximum-sum-circular-subarray) |
+| [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1522-stone-game-iii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0036-valid-sudoku) |
+| [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 ## Prefix Sum
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0909-stone-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0954-maximum-sum-circular-subarray) |
+| [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1522-stone-game-iii) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0018-4sum) |
+| [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0018-4sum) |
 | [0368-largest-divisible-subset](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0368-largest-divisible-subset) |
+| [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
 ## Matrix
 |  |
 | ------- |
@@ -127,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
+## String
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
 <!---LeetCode Topics End-->
