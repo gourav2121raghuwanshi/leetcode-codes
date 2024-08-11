@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0801-is-graph-bipartite) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Shortest Path
 |  |
@@ -198,10 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0801-is-graph-bipartite](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 ## Union Find
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 ## Heap (Priority Queue)
 |  |
