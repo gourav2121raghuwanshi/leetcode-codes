@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0053-maximum-subarray) |
+| [0090-subsets-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0368-largest-divisible-subset) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0460-lfu-cache) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
