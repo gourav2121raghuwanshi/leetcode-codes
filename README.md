@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
 | [0460-lfu-cache](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
 | [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1250-longest-common-subsequence) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0460-lfu-cache) |
 ## Monotonic Stack
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
