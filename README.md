@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0475-heaters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0475-heaters) |
 | [0908-middle-of-the-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0206-reverse-linked-list) |
