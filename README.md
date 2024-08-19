@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0118-pascals-triangle) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0136-single-number) |
 ## Trie
