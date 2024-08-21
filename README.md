@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0954-maximum-sum-circular-subarray) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0206-reverse-linked-list) |
@@ -334,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
