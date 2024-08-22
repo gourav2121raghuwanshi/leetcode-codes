@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0907-koko-eating-bananas) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0036-valid-sudoku) |
+| [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1036-rotting-oranges) |
