@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1325-path-with-maximum-probability) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1522-stone-game-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 ## Dynamic Programming
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Trie
 |  |
