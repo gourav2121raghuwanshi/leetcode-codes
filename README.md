@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2411-spiral-matrix-iv) |
+| [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2727-number-of-senior-citizens) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 ## Hash Table
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 ## Dynamic Programming
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1522-stone-game-iii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0678-valid-parenthesis-string) |
+| [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
 ## Stack
 |  |
 | ------- |
