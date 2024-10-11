@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0831-largest-sum-of-averages](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0831-largest-sum-of-averages) |
 | [0906-walking-robot-simulation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0909-stone-game) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
+| [0831-largest-sum-of-averages](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0831-largest-sum-of-averages) |
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0678-valid-parenthesis-string) |
+| [0831-largest-sum-of-averages](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0831-largest-sum-of-averages) |
 | [0909-stone-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0954-maximum-sum-circular-subarray) |
 | [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
