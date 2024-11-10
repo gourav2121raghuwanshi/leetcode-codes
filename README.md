@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2411-spiral-matrix-iv) |
 | [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2727-number-of-senior-citizens) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 ## Hash Table
 |  |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1940-maximum-xor-for-each-query](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Trie
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## String Matching
 |  |
 | ------- |
