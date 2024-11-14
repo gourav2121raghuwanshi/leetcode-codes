@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1940-maximum-xor-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2411-spiral-matrix-iv) |
 | [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
 ## Stack
 |  |
