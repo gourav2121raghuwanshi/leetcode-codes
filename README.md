@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1196-filling-bookcase-shelves) |
 | [1206-corporate-flight-bookings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1206-corporate-flight-bookings) |
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 | [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2089-maximum-matrix-sum) |
 | [2411-spiral-matrix-iv](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2411-spiral-matrix-iv) |
