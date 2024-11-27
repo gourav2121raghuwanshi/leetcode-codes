@@ -1,6 +1,8 @@
 class Solution {
 public:
     int maxEqualRowsAfterFlips(vector<vector<int>>& matrix) {
+        // logic : only same and ooposite row to current row will form answer with it 
+        // so check accordingly 
         int ans = 0;
         unordered_map<string, int> mp;
         int n = matrix.size();
