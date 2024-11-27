@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0547-number-of-provinces) |
+| [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1036-rotting-oranges) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 | [0831-largest-sum-of-averages](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0831-largest-sum-of-averages) |
 | [0906-walking-robot-simulation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0907-koko-eating-bananas) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0678-valid-parenthesis-string) |
+| [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 | [0831-largest-sum-of-averages](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0831-largest-sum-of-averages) |
 | [0909-stone-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0954-maximum-sum-circular-subarray) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
+| [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 | [0921-spiral-matrix-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1036-rotting-oranges) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
+| [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -438,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
+| [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 ## Recursion
 |  |
 | ------- |
