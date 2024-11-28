@@ -1,7 +1,8 @@
 class Solution {
 public:
     vector<int> resultsArray(vector<int>& nums, int k) {
-        int cnt=1; // count corrent elements in current window
+        int cnt=1; // count correct elements in current window
+        // and keep them changing according to window
         if(k==1) return nums;
         for(int i=1;i<k;i++){
             if(nums[i-1]+1==nums[i]) ++cnt;
