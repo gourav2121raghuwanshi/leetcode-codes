@@ -1,20 +1,22 @@
 class Solution {
 public:
     vector<int> resultsArray(vector<int>& nums, int k) {
-       vector<int>ans;
-       int n=nums.size();
-       for(int i=0;i<=n-k;i++) {
-        bool f=true;
-        for(int j=i;j<i+k;j++){
-            if(j==i) continue;
-            else if(nums[j]<=nums[j-1] || nums[j-1]+1!=nums[j]){
-                f=false;
-                break;
-            }
+        int cnt=1; // count corrent elements in current window
+        if(k==1) return nums;
+        for(int i=1;i<k;i++){
+            if(nums[i-1]+1==nums[i]) ++cnt;
         }
-        if(f) ans.push_back(nums[i+k-1]);
+        vector<int>ans;
+        if(cnt==k) ans.push_back(nums[k-1]);
         else ans.push_back(-1);
-       }
-       return ans;
+        for(int i=k;i<nums.size();++i){
+            if(nums[i-k]+1==nums[i-k+1]) --cnt;
+             if(nums[i-1]+1==nums[i]) ++cnt;
+              if(cnt==k) ans.push_back(nums[i]);
+              else ans.push_back(-1);
+       
+        }
+        
+        return ans;
     }
 };
