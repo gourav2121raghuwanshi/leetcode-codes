@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -534,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2201-valid-arrangement-of-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
