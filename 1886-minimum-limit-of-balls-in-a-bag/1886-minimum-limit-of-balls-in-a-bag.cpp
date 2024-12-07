@@ -12,12 +12,12 @@ class Solution {
     }
 public:
     int minimumSize(vector<int>& nums, int maxOperations) {
-        sort(nums.begin(),nums.end());
+        // sort(nums.begin(),nums.end());
         int n=nums.size();
         // try out all possible bag sizes
         // now try to reduce all to less equal to mid size
         int s=1;
-        int e=nums[n-1];
+        int e=*max_element(nums.begin(),nums.end());
         int ans=-1;
         while(s<=e){
             int mid=(s+e)/2;
