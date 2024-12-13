@@ -1,16 +1,16 @@
 class Solution {
 public:
     long long findScore(vector<int>& nums) {
-        set<pair<int,int>>st;
+        vector<pair<int,int>>v;
         long long ans=0;
         int n=nums.size();
         for(int i=0;i<n;++i){
-            st.insert({nums[i],i});
+            v.push_back({nums[i],i});
         }
+        sort(v.begin(),v.end());
         unordered_map<int,bool>mark;
-        while(!st.empty()){
-            auto front=*st.begin();
-            st.erase(st.begin());
+        for(auto&i:v){
+            auto front=i;
             int val=front.first;
             int idx=front.second;
             if(!mark[idx]){
