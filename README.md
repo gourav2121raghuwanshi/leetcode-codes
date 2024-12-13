@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Prefix Sum
 |  |
 | ------- |
