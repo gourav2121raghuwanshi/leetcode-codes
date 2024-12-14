@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0090-subsets-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
