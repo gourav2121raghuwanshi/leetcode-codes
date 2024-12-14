@@ -1,28 +1,38 @@
 class Solution {
-
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        unordered_map<string, bool> mp;
-        for (int i = 0; i < 9; ++i) {
-            for (int j = 0; j < 9; ++j) {
-                if (board[i][j] == '.')
-                    continue;
-                string row = to_string(i) + "row" + board[i][j];
-                string col = to_string(j) + "col" + board[i][j];
-                string by3 =
-                    to_string(i / 3) + ":" + to_string(j / 3) + board[i][j];
+        int n=board.size();
+        int m=board[0].size();
 
-                if (mp.count(row) || mp.count(row) || mp.count(by3))
-                    return false;
-
-                mp[row] = true;
-                if (mp.count(col))
-                    return false;
-
-                mp[col] = true;
-                if (mp.count(by3))
-                    return false;
-                mp[by3] = true;
+        for(int i=0;i<n;++i){
+            unordered_map<char,bool>mp;
+            for(int j=0;j<m;j++){
+                if(board[i][j]!='.'){
+                    if(mp.count(board[i][j])) return false;
+                    mp[board[i][j]]=true;
+                }
+            }
+        }
+           for(int i=0;i<m;++i){
+            unordered_map<char,bool>mp;
+            for(int j=0;j<n;j++){
+                if(board[j][i]!='.'){
+                    if(mp.count(board[j][i])) return false;
+                    mp[board[j][i]]=true;
+                }
+            }
+        }
+        for(int i=0;i<n;i+=3){
+            for(int j=0;j<m;j+=3){
+                   unordered_map<char,bool>mp;
+                for(int k1=i;k1<i+3;k1++){
+                    for(int k2=j;k2<j+3;++k2){
+                        if(board[k1][k2]!='.'){
+                    if(mp.count(board[k1][k2])) return false;
+                    mp[board[k1][k2]]=true;
+                }
+                    }
+                }
             }
         }
         return true;
