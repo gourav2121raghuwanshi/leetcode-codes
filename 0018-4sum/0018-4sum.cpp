@@ -1,31 +1,31 @@
 class Solution {
 public:
-    vector<vector<int>> fourSum(vector<int>& nums, int t) {
-        sort(nums.begin(), nums.end());
+    vector<vector<int>> fourSum(vector<int>& nums, int target) {
         int n = nums.size();
+        sort(nums.begin(), nums.end());
         vector<vector<int>> ans;
-        for (int i = 0; i <= n - 4; ++i) {
-            if (i != 0 && nums[i] == nums[i - 1])
+        for (int i = 0; i < nums.size(); i++) {
+            if (i > 0 && nums[i] == nums[i - 1])
                 continue;
-            for (int j = i + 1; j <= n - 3; j++) {
+            for (int j = i + 1; j < nums.size(); j++) {
                 if (j > i + 1 && nums[j] == nums[j - 1])
                     continue;
-                int k = j + 1;
-                int l = n - 1;
-                long long req2 =(long long) t - (long long)(nums[i] + nums[j]);
-                while (k < l) {
-                    long long m = (nums[k] + nums[l]);
-                    if (m == req2) {
-                        ans.push_back({nums[i], nums[j], nums[k], nums[l]});
-                        while (k < l && nums[k] == nums[k + 1])
-                            ++k;
-                        while (k < l && nums[l] == nums[l - 1])
-                            --l;
-                        --l, ++k;
-                    } else if (m > req2)
-                        --l;
-                    else
-                        ++k;
+                int l = j + 1;
+                int r = n - 1;
+                while (l < r) {
+                    long long cs = 1LL * nums[i] + 1LL * nums[j] +
+                                   1LL * nums[l] + 1LL * nums[r];
+                    if (cs == target) {
+                        ans.push_back({nums[i], nums[j], nums[l], nums[r]});
+                        while (l < r && nums[l] == nums[l + 1])
+                            ++l;
+                        while (l < r && nums[r] == nums[r - 1])
+                            --r;
+                        ++l, --r;
+                    } else if (cs > target) {
+                        --r;
+                    } else
+                        ++l;
                 }
             }
         }
