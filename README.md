@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0283-move-zeroes) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0475-heaters) |
