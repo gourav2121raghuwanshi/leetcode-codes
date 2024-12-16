@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0476-number-complement](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
