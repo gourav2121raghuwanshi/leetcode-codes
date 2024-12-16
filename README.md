@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0678-valid-parenthesis-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0812-rotate-string) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0547-number-of-provinces](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0547-number-of-provinces) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0801-is-graph-bipartite) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0352-data-stream-as-disjoint-intervals) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Memoization
 |  |
 | ------- |
