@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0368-largest-divisible-subset) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0592-fraction-addition-and-subtraction) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0204-count-primes) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Binary Search Tree
 |  |
@@ -653,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0164-maximum-gap) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
