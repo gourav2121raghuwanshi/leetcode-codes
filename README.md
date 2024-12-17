@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0954-maximum-sum-circular-subarray) |
 | [2868-continuous-subarrays](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2868-continuous-subarrays) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
+| [0341-flatten-nested-list-iterator](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0496-next-greater-element-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0678-valid-parenthesis-string) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0547-number-of-provinces](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0547-number-of-provinces) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0801-is-graph-bipartite) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0460-lfu-cache](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0460-lfu-cache) |
 ## Monotonic Stack
@@ -714,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0204-count-primes) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
