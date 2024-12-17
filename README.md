@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
+| [0264-ugly-number-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0264-ugly-number-ii) |
 | [0460-lfu-cache](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0592-fraction-addition-and-subtraction) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
