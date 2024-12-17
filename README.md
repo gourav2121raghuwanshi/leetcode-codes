@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0475-heaters) |
 | [0908-middle-of-the-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0287-find-the-duplicate-number) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0475-heaters) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
