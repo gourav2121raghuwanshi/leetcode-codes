@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0204-count-primes) |
+| [0241-different-ways-to-add-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0592-fraction-addition-and-subtraction) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0241-different-ways-to-add-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0678-valid-parenthesis-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0812-rotate-string) |
@@ -625,12 +628,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0241-different-ways-to-add-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
