@@ -12,15 +12,17 @@ public:
         int n=nums.size();
         while(i<n){
             while(count[j]==0) --j;
-            nums[i++]=j;
+            nums[i]=j;
             --count[j];
+            i+=2;
         }
 
          i=0;
         while(i<n){
             while(count[j]==0) --j;
-            nums[i++]=j;
+            nums[i]=j;
             --count[j];
+            i+=2;
         }
 
     }
