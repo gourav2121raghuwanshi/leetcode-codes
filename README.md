@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1511-count-number-of-teams](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1522-stone-game-iii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1755-defuse-the-bomb](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0678-valid-parenthesis-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0503-next-greater-element-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Doubly-Linked List
 |  |
 | ------- |
