@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0687-longest-univalue-path) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0687-longest-univalue-path) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
 |  |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0669-trim-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
