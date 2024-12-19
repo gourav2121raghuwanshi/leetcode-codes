@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0678-valid-parenthesis-string) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2300-construct-string-with-repeat-limit) |
@@ -608,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0264-ugly-number-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1304-longest-happy-string) |
