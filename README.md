@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0454-4sum-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0454-4sum-ii) |
+| [0473-matchsticks-to-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0475-heaters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0496-next-greater-element-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0650-2-keys-keyboard) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0216-combination-sum-iii) |
 | [0306-additive-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0357-count-numbers-with-unique-digits) |
+| [0473-matchsticks-to-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 ## Divide and Conquer
 |  |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0287-find-the-duplicate-number) |
+| [0473-matchsticks-to-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -759,4 +763,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
