@@ -12,7 +12,7 @@ public:
             --freq[i];
             if(end[i-1]>0){
                 --end[i-1];
-                end[i]=1;
+                end[i]++;
             }else if(freq[i+1]>0 && freq[i+2]>0){
                 --freq[i+1];
                 --freq[i+2];
