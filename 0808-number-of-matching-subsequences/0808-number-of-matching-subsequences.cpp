@@ -1,32 +1,32 @@
 class Solution {
 public:
     int numMatchingSubseq(string s, vector<string>& words) {
-        unordered_map<char, vector<int>> mp;
-        for (int i = 0; i < s.size(); ++i) {
+        unordered_map<char,vector<int>>mp;
+        for(int i=0;i<s.size();++i){
             mp[s[i]].push_back(i);
         }
-        int ans = 0;
-        for (auto& i : words) {
-            if (mp[i[0]].empty())
-                continue;
-            string curr = i;
-            int idx = mp[curr[0]][0];
-            if (curr.size() == 1) {
+        int ans=0;
+        for(auto&i:words){
+          if(mp.count(i[0])) {
+            
+            bool f=true;
+            int idx=-1;
+            for(auto&ch:i){
+                if(!mp.count(ch)){
+                    f=false;
+                    break;
+                }
+                auto ii=upper_bound(mp[ch].begin(),mp[ch].end(),idx);
+                if(ii==mp[ch].end()){
+                    f=false;
+                    break;
+                }
+                idx=*ii;
+            }
+            if(f){
                 ++ans;
-                continue;
             }
-            for (int j = 1; j < curr.size(); ++j) {
-
-                if (mp[curr[j]].empty())
-                    break;
-                auto next =
-                    upper_bound(mp[curr[j]].begin(), mp[curr[j]].end(), idx);
-                if (next == mp[curr[j]].end())
-                    break;
-                idx = *next;
-                if (j == curr.size() - 1)
-                    ++ans;
-            }
+          }
         }
         return ans;
     }
