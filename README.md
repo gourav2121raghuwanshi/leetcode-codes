@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 | [0831-largest-sum-of-averages](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0831-largest-sum-of-averages) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Doubly-Linked List
