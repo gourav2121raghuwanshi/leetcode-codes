@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Union Find
 |  |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0687-longest-univalue-path) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Design
 |  |
 | ------- |
