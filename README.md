@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0740-delete-and-earn) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 | [0831-largest-sum-of-averages](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0831-largest-sum-of-averages) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0652-find-duplicate-subtrees) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0740-delete-and-earn](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0740-delete-and-earn) |
 | [0906-walking-robot-simulation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0740-delete-and-earn](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0740-delete-and-earn) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 | [0831-largest-sum-of-averages](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0831-largest-sum-of-averages) |
 | [0909-stone-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0909-stone-game) |
