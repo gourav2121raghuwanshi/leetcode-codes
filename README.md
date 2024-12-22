@@ -687,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-complete-binary-tree-inserter](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0955-complete-binary-tree-inserter) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-complete-binary-tree-inserter](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0955-complete-binary-tree-inserter) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Design
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0669-trim-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Bucket Sort
 |  |
 | ------- |
