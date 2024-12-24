@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1206-corporate-flight-bookings) |
 | [1219-longest-well-performing-interval](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1219-longest-well-performing-interval) |
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1321-get-equal-substrings-within-budget) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1940-maximum-xor-for-each-query](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1940-maximum-xor-for-each-query) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
+| [1321-get-equal-substrings-within-budget](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1321-get-equal-substrings-within-budget) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1087-longest-arithmetic-subsequence) |
+| [1321-get-equal-substrings-within-budget](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1321-get-equal-substrings-within-budget) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1138-grumpy-bookstore-owner) |
+| [1321-get-equal-substrings-within-budget](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1321-get-equal-substrings-within-budget) |
 | [1755-defuse-the-bomb](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
