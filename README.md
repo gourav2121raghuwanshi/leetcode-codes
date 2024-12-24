@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1325-path-with-maximum-probability) |
+| [1342-queens-that-can-attack-the-king](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1342-queens-that-can-attack-the-king) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1117-as-far-from-land-as-possible) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1342-queens-that-can-attack-the-king](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1342-queens-that-can-attack-the-king) |
 | [1972-rotating-the-box](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0921-spiral-matrix-iii) |
 | [1184-car-pooling](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1184-car-pooling) |
+| [1342-queens-that-can-attack-the-king](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1342-queens-that-can-attack-the-king) |
 | [2232-adding-spaces-to-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
