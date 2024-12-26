@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1325-path-with-maximum-probability) |
 | [1342-queens-that-can-attack-the-king](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1342-queens-that-can-attack-the-king) |
 | [1396-count-servers-that-communicate](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1396-count-servers-that-communicate) |
+| [1397-search-suggestions-system](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
 | [1184-car-pooling](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1184-car-pooling) |
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
+| [1397-search-suggestions-system](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2164-two-best-non-overlapping-events](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2164-two-best-non-overlapping-events) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1321-get-equal-substrings-within-budget) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1397-search-suggestions-system](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1397-search-suggestions-system) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1087-longest-arithmetic-subsequence) |
 | [1321-get-equal-substrings-within-budget](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1321-get-equal-substrings-within-budget) |
+| [1397-search-suggestions-system](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -781,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1325-path-with-maximum-probability) |
+| [1397-search-suggestions-system](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1397-search-suggestions-system) |
 | [1917-maximum-average-pass-ratio](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2300-construct-string-with-repeat-limit) |
@@ -934,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0386-lexicographical-numbers) |
 | [0808-number-of-matching-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0808-number-of-matching-subsequences) |
+| [1397-search-suggestions-system](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1397-search-suggestions-system) |
 ## Memoization
 |  |
 | ------- |
