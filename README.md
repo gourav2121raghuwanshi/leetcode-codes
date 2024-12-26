@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-queens-that-can-attack-the-king](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1342-queens-that-can-attack-the-king) |
 | [1396-count-servers-that-communicate](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1397-search-suggestions-system) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1522-stone-game-iii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1342-queens-that-can-attack-the-king](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1342-queens-that-can-attack-the-king) |
 | [1396-count-servers-that-communicate](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
