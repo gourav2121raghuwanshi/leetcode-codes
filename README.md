@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0473-matchsticks-to-square) |
 | [0475-heaters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0523-continuous-subarray-sum) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
