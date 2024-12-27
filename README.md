@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1511-count-number-of-teams](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1522-stone-game-iii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1304-longest-happy-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1304-longest-happy-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2089-maximum-matrix-sum) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
 | [1397-search-suggestions-system](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2164-two-best-non-overlapping-events](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1397-search-suggestions-system) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2300-construct-string-with-repeat-limit) |
