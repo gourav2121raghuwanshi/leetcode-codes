@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1117-as-far-from-land-as-possible) |
+| [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
 | [1325-path-with-maximum-probability](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1207-delete-nodes-and-return-forest) |
+| [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1396-count-servers-that-communicate) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1396-count-servers-that-communicate) |
 ## Heap (Priority Queue)
@@ -866,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1207-delete-nodes-and-return-forest) |
+| [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -897,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1207-delete-nodes-and-return-forest) |
+| [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
