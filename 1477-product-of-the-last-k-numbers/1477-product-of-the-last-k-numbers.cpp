@@ -1,25 +1,22 @@
 class ProductOfNumbers {
 public:
     vector<int> v;
-    int zc=0;
+    
     int prod=1;
-    ProductOfNumbers() {}
+    ProductOfNumbers() {v.push_back(1);}
 
     void add(int num) {
         if(num==0){
             v.clear();
+            v.push_back(1);
+        }else {
+            v.push_back(v.back()*num);
         }
-        v.push_back(num);
-        
     }
 
     int getProduct(int k) {
-        int prod=1;
-        int j=v.size()-1;
-        while(j>=0 && k--){
-            prod*=v[j--];
-        }
-        return prod;
+       if(v.size()<=k) return 0;
+       return v.back()/v[v.size()-k-1];
     }
 };
 
