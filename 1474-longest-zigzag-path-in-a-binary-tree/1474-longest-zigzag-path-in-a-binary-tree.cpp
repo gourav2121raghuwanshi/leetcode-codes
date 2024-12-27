@@ -1,35 +1,20 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
-
 class Solution {
-    map<pair<TreeNode*,int>,int>mp;
-    int solve(TreeNode*root,int dir){
-        if(!root) return 0;
-        if(mp.count({root,dir})) return mp[{root,dir}];
-        if(dir){
-            return  mp[{root,dir}] = 1+solve(root->left,false);
-        }else     return  mp[{root,dir}]= 1+solve(root->right,true);
-    }
-    
-    int solve2(TreeNode* root) {
-        if(!root) return 0;
-        int left=solve2(root->right);
-        int right=solve2(root->left);
-        int current=max(solve(root,false),solve(root,true));
-        return max({current,left,right});
+    void solve(TreeNode* root,int &maxi,int c,bool left){
+        if(!root) return ;
+        maxi=max(maxi,c);
+        if(left){
+            solve(root->right,maxi,c+1,false);
+            solve(root->left,maxi,1,true);
+        }else{
+            solve(root->left,maxi,c+1,true);
+            solve(root->right,maxi,1,false);
+        }
     }
 public:
     int longestZigZag(TreeNode* root) {
         if(!root) return 0;
-        return max(0,solve2(root)-1);
+        int maxi=0;
+        solve(root,maxi,0,true);
+        return maxi;
     }
 };
