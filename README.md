@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1025-minimum-cost-for-tickets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1046-max-consecutive-ones-iii) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0930-all-possible-full-binary-trees) |
 | [0943-sum-of-subarray-minimums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0954-maximum-sum-circular-subarray) |
+| [1025-minimum-cost-for-tickets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1087-longest-arithmetic-subsequence) |
 | [1117-as-far-from-land-as-possible](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1117-as-far-from-land-as-possible) |
