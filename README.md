@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0287-find-the-duplicate-number) |
+| [0307-range-sum-query-mutable](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0368-largest-divisible-subset) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1511-count-number-of-teams) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1511-count-number-of-teams) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -970,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
+| [0307-range-sum-query-mutable](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0460-lfu-cache](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0460-lfu-cache) |
