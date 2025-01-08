@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3634-find-mirror-score-of-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3634-find-mirror-score-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3451-string-compression-iii) |
+| [3634-find-mirror-score-of-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3634-find-mirror-score-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3634-find-mirror-score-of-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3634-find-mirror-score-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2411-spiral-matrix-iv) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3634-find-mirror-score-of-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3634-find-mirror-score-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
