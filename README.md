@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3451-string-compression-iii) |
 | [3634-find-mirror-score-of-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3634-find-mirror-score-of-a-string) |
+| [3684-substring-matching-pattern](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3684-substring-matching-pattern) |
 ## Binary Search
 |  |
 | ------- |
@@ -1103,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3684-substring-matching-pattern](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3684-substring-matching-pattern) |
 ## Eulerian Circuit
 |  |
 | ------- |
