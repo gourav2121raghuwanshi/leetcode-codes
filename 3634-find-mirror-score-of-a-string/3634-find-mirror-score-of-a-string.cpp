@@ -4,16 +4,14 @@ public:
         long long ans=0;
         unordered_map<int,vector<int>>mp;
         for(int i=0;i<s.size();++i){
-            int curr=s[i]-'a';
-            int mirror=25-curr;
-            if(mp[mirror].size()){
-                ans+=(i-mp[mirror].back());
+            int mirror=25-(s[i]-'a');
+            if(!mp[mirror].empty()){
+                ans+=i-mp[mirror].back();
                 mp[mirror].pop_back();
             }else{
-                mp[curr].push_back(i);
+                mp[s[i]-'a'].push_back(i);
             }
         }
-
         return ans;
     }
 };
