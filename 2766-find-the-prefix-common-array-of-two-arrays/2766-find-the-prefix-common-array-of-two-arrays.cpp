@@ -3,24 +3,28 @@ public:
     vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
         vector<int> ans;
         int c = 0;
-        vector<int> f1(51, 0), f2(51, 0);
-        vector<bool> taken(51, 0);
+        vector<int> freq(51, 0); // Frequency array for tracking common elements
+        
         for (int i = 0; i < A.size(); ++i) {
-            ++f1[A[i]];
-            ++f2[B[i]];    
-
-            if (f1[A[i]] && f2[A[i]] && !taken[A[i]]) {
-                taken[A[i]] = true;
-                ++c;
+            if (A[i] == B[i]) {
+                // If the current elements in A and B are the same
+                if (freq[A[i]] == 0) {
+                    ++c; // Count as common only if not already counted
+                }
+                ++freq[A[i]]; // Mark as counted
+            } else {
+                // Handle A[i]
+                if (++freq[A[i]] == 2) {
+                    ++c; // Count as common
+                }
+                // Handle B[i]
+                if (++freq[B[i]] == 2) {
+                    ++c; // Count as common
+                }
             }
-            if (f1[B[i]] && f2[B[i]] && !taken[B[i]]) {
-                taken[B[i]] = true;
-                ++c;
-            }
-
             ans.push_back(c);
         }
-
+        
         return ans;
     }
 };
