@@ -24,25 +24,9 @@ public:
 
         if (dfs(0, 0, grid) == false)
             return 1;
-
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-        queue<pair<int, int>> q;
-        q.push({0, 0});
-        vis[0][0] = 1; 
-        while (!q.empty()) {
-            auto [x, y] = q.front();
-            q.pop();
-            if (x == n - 1 && y == m - 1)
-                return false;
-            if (x + 1 < n && grid[x + 1][y] && !vis[x + 1][y]) {
-                q.push({x + 1, y});
-                vis[x + 1][y] = 1; 
-            }
-            if (y + 1 < m && grid[x][y + 1] && !vis[x][y + 1]) {
-                q.push({x, y + 1});
-                vis[x][y + 1] = 1; 
-            }
-        }
-        return true;
+        grid[0][0]=1;
+         if (dfs(0, 0, grid) == false)
+            return 1;
+        return false;
     }
 };
