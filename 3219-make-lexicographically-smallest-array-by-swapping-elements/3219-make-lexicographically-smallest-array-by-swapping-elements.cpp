@@ -51,23 +51,17 @@ public:
     vector<int> lexicographicallySmallestArray(vector<int>& nums, int limit) {
         vector<pair<int, int>> a;
         int n = nums.size();
+        
         for (int i = 0; i < nums.size(); ++i) {
             a.push_back({nums[i], i});
         }
         sort(a.begin(), a.end());
 
-        unordered_map<int, vector<int>> idxs;
-        for (int i = 0; i < nums.size(); ++i) {
-            idxs[i].push_back(nums[i]);
-        }
-
         DSU dsu(n);
         int i = 0;
         while (i < a.size()) {
             int j = i + 1;
-            cout << a[i].first << " - ";
             while (j < a.size() && a[j].first - a[i].first <= limit) {
-                cout << a[j].first << " - ";
                 dsu.UnionByRank(a[j].second, a[i].second);
                 ++j;
             }
@@ -77,21 +71,16 @@ public:
                 i = j;
         }
 
-        unordered_map<int, vector<int>> mp;
-        for (int i = 0; i < n; i++) {
-            mp[dsu.parent(i)].push_back(nums[i]);
-        }
-        for (auto& i : mp) {
-            sort(i.second.rbegin(), i.second.rend());
+        unordered_map<int, deque<int>> mp;
+        for (auto&i:a) {
+            mp[dsu.parent(i.second)].push_front(i.first);
         }
 
-        vector<int> ans(nums.size());
-
-        for (int i = 0; i < n; i++) {
-            ans[i] = mp[dsu.parent(i)].back();
+        for (int i = 0; i < n; ++i) {
+            nums[i] = mp[dsu.parent(i)].back();
             mp[dsu.parent(i)].pop_back();
         }
 
-        return ans;
+        return nums;
     }
 };
