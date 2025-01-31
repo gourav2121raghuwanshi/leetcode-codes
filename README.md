@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3721-count-mentions-per-user](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3721-count-mentions-per-user) |
 ## Hash Table
 |  |
 | ------- |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3721-count-mentions-per-user](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3721-count-mentions-per-user) |
 ## Matrix
 |  |
 | ------- |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1522-stone-game-iii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3568-find-the-key-of-the-numbers) |
+| [3721-count-mentions-per-user](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3721-count-mentions-per-user) |
 ## Game Theory
 |  |
 | ------- |
@@ -856,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3634-find-mirror-score-of-a-string) |
+| [3721-count-mentions-per-user](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3721-count-mentions-per-user) |
 ## Depth-First Search
 |  |
 | ------- |
