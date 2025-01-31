@@ -1,5 +1,6 @@
 class Solution {
-     unordered_map<int,vector<pair<int,int>>>adj;
+    // video : https://www.youtube.com/watch?v=L8GJkBbAj8E
+     vector<vector<pair<int,int>>>adj;
      vector<int>depth;
      vector<int>edge_reverse_count;
      void dfs(int node,int c,int d,int par,int &ans_for_0){
@@ -16,6 +17,7 @@ public:
     vector<int> minEdgeReversals(int n, vector<vector<int>>& edges) {
         // a->b : adj[a]->(b,0) and adj[b]->(a,1)
         depth.resize(n);
+        adj.resize(n);
         edge_reverse_count.resize(n);
         for(auto&i:edges){
             int a=i[0];
