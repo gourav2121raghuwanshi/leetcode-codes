@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3429-special-array-i) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
