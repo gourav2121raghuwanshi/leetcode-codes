@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-longest-well-performing-interval](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1219-longest-well-performing-interval) |
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
 | [1242-matrix-block-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1242-matrix-block-sum) |
+| [1290-make-array-strictly-increasing](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1290-make-array-strictly-increasing) |
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1325-path-with-maximum-probability) |
 | [1342-queens-that-can-attack-the-king](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1342-queens-that-can-attack-the-king) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1250-longest-common-subsequence) |
+| [1290-make-array-strictly-increasing](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1290-make-array-strictly-increasing) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0959-3sum-with-multiplicity) |
 | [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
 | [1184-car-pooling](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1184-car-pooling) |
+| [1290-make-array-strictly-increasing](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1290-make-array-strictly-increasing) |
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
 | [1397-search-suggestions-system](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1087-longest-arithmetic-subsequence) |
+| [1290-make-array-strictly-increasing](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1290-make-array-strictly-increasing) |
 | [1321-get-equal-substrings-within-budget](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1321-get-equal-substrings-within-budget) |
 | [1397-search-suggestions-system](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
