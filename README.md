@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
