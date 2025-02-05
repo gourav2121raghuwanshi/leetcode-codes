@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1250-longest-common-subsequence) |
+| [1251-longest-chunked-palindrome-decomposition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1290-make-array-strictly-increasing](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1290-make-array-strictly-increasing) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0959-3sum-with-multiplicity) |
 | [1028-interval-list-intersections](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1028-interval-list-intersections) |
 | [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
+| [1251-longest-chunked-palindrome-decomposition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1251-longest-chunked-palindrome-decomposition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1304-longest-happy-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1502-construct-k-palindrome-strings) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1250-longest-common-subsequence) |
+| [1251-longest-chunked-palindrome-decomposition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1304-longest-happy-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -1287,4 +1291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [1251-longest-chunked-palindrome-decomposition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1251-longest-chunked-palindrome-decomposition) |
+## Hash Function
+|  |
+| ------- |
+| [1251-longest-chunked-palindrome-decomposition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1251-longest-chunked-palindrome-decomposition) |
 <!---LeetCode Topics End-->
