@@ -778,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0921-spiral-matrix-iii) |
 | [1184-car-pooling](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1184-car-pooling) |
 | [1342-queens-that-can-attack-the-king](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1342-queens-that-can-attack-the-king) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
