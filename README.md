@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2439-longest-cycle-in-a-graph) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
