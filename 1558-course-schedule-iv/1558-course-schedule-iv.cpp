@@ -9,8 +9,8 @@ public:
         }
         for(int i=0;i<numCourses;i++){
             for(int j=0;j<numCourses;j++){
-                if(pre[i].count(j)){
-                    pre[i].insert(pre[j].begin(),pre[j].end());
+                if(pre[j].count(i)){
+                    pre[j].insert(pre[i].begin(),pre[i].end());
                 }
             }
         }
