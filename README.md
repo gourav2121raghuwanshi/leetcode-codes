@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3634-find-mirror-score-of-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3634-find-mirror-score-of-a-string) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3634-find-mirror-score-of-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3634-find-mirror-score-of-a-string) |
 | [3684-substring-matching-pattern](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3684-substring-matching-pattern) |
 ## Binary Search
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3058-maximum-number-of-k-divisible-components](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Union Find
 |  |
@@ -1095,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
