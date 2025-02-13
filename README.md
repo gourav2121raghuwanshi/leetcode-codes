@@ -697,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0650-2-keys-keyboard) |
 | [0738-monotone-increasing-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0738-monotone-increasing-digits) |
+| [0795-k-th-symbol-in-grammar](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0795-k-th-symbol-in-grammar) |
 | [0909-stone-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1192,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0795-k-th-symbol-in-grammar](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0795-k-th-symbol-in-grammar) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1230,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0241-different-ways-to-add-parentheses) |
+| [0795-k-th-symbol-in-grammar](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0795-k-th-symbol-in-grammar) |
 | [0930-all-possible-full-binary-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0930-all-possible-full-binary-trees) |
 ## Merge Sort
 |  |
