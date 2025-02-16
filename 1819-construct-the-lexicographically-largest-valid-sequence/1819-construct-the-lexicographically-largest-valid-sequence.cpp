@@ -1,35 +1,39 @@
 class Solution {
     vector<int> ans;
-    bool solve(int idx, vector<int>& df, vector<int>& temp, int n) {
+    bool solve(int idx, vector<int>& freq, vector<int>& temp, int n) {
 
-        if (idx == temp.size()) {
-            for (auto& i : df) {
-                if (i != 0)
-                    return false;
-            }
+        if (idx == temp.size()) { // we have Reached a answer
+            // since we want lexographically Largest , hence return upon getting
+            // First answer as we had started From Back to Front
             ans = max(ans, temp);
             return 1;
         }
-        if (idx < temp.size() && temp[idx] != -1)
-            return solve(idx + 1, df, temp, n);
+        if (temp[idx] != -1) // already Occupied
+            return solve(idx + 1, freq, temp, n);
 
-        for (int i = n;i>=1;--i) {
-            if (df[i]) {
-                --df[i];
-                temp[idx] = i;
-                if (i != 1 && idx + i < temp.size() && temp[idx + i] == -1) {
+        for (int i = n; i >= 1; --i) {
+            if (freq[i] > 0) {
+                --freq[i];     // Decrease the frequency
+                temp[idx] = i; // Fill the idx
+                if (i == 1) {  // 1 has to be placed only Once
+                    bool a = solve(idx + 1, freq, temp, n);
+                    if (a)
+                        return a;
+                } else if (i != 1 && idx + i < temp.size() &&
+                           temp[idx + i] ==
+                               -1) { // Others Twice at given Distance
                     temp[idx + i] = i;
-                    --df[i];
-                    bool a=solve(idx + 1, df, temp, n);
-                    if(a) return a;
-                    ++df[i];
+                    --freq[i];
+                    bool a = solve(idx + 1, freq, temp, n);
+                    if (a)
+                        return a;
+                    // backTrack
+                    ++freq[i];
                     temp[idx + i] = -1;
-                } else if (i == 1) {
-                    bool a=solve(idx + 1, df, temp, n);
-                    if(a) return a;
                 }
-                temp[idx] = -1;
-                ++df[i];
+                // backTrack
+                temp[idx] = -1; // make Idx empty again
+                ++freq[i];      // Increase elemets frequency
             }
         }
         return false;
@@ -38,22 +42,31 @@ class Solution {
 public:
     vector<int> constructDistancedSequence(int n) {
 
-        int req = 2 * n - 1;
-        vector<int> freq(n + 1);
-        freq[1] = 1;
+        int req = 2 * n - 1; // Required Number of elements
+        vector<int> freq(n + 1);  // required freq of elements
+        // freq=1 (for 1) and 2 for all others
+        freq[1] = 1; 
         for (int i = 2; i <= n; i++)
             freq[i] = 2;
 
-        for (int i = n;i>=1;i--) {
-            vector<int> df = freq;
-            vector<int> temp(req, -1);
-            --df[i];
+
+        vector<int> temp(req, -1);
+
+        for (int i = n; i >= 1; i--) {
+            --freq[i];
             if (i != 1) {
                 temp[i] = i;
-                --df[i];
+                --freq[i];
             }
             temp[0] = i;
-            if(solve(1, df, temp, n)) return ans;
+            if (solve(1, freq, temp, n))
+                return ans;
+            ++freq[i];
+            temp[0]=-1;
+             if (i != 1) {
+                temp[i] = -1;
+                ++freq[i];
+            }
         }
         return ans;
     }
