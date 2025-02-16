@@ -1,7 +1,9 @@
 class Solution {
+    // Approach 2
 public:
-    vector<int> assignElements(vector<int>& groups, vector<int>& elements) {    
-        int maxEle=*max_element(groups.begin(),groups.end())+1;
+    vector<int> assignElements(vector<int>& groups, vector<int>& elements) {
+
+        int maxEle = *max_element(groups.begin(), groups.end()) + 1;
         unordered_map<int, int> factors;
         for (int i = 1; i <= (int)maxEle; ++i) {
             factors[i] = 1e9;
@@ -17,19 +19,9 @@ public:
                 min(i, minIndexofELement[elements[i]]);
         }
 
-        for (int i = 1; i <= maxEle; ++i) {
-            for (int j = 1; j * j <= i; ++j) {
-                if (i % j == 0) {
-                    if (availableFactors.count(j)) {
-                        factors[i] = min(factors[i], minIndexofELement[j]);
-                    }
-                }
-                int secEle = i / j;
-                if (i % secEle == 0) {
-                    if (availableFactors.count(secEle)) {
-                        factors[i] = min(factors[i], minIndexofELement[secEle]);
-                    }
-                }
+        for (auto& i : availableFactors) {
+            for (int j = i; j <= maxEle; j += i) {
+                factors[j] = min(factors[j], minIndexofELement[i]);
             }
         }
 
