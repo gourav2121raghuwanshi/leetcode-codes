@@ -19,16 +19,12 @@ public:
             ans+=1LL*pizzas.back();
             pizzas.pop_back();
         }
-        priority_queue<int>pq;
-        for(;i<pizzas.size();++i){
-            pq.push(pizzas[i]);
-        }
+        i=pizzas.size()-1;
         while(even--){
-            pq.pop();
-            ans+=1LL*pq.top();
-            pq.pop();
+            --i;
+            ans+=1LL*pizzas[i];
+            --i;
         }
-
         return ans;
 
     }
