@@ -1,21 +1,25 @@
 class Solution {
     unordered_set<string>st;
-    void solve(string s,string tiles,vector<bool>&taken){
-        if(!s.empty()){
-            st.insert(s);
+    void solve(string &s,string &t,vector<bool>&taken){
+        if(!t.empty()) st.insert(t);
+
+       for(int i=0;i<s.size();++i){
+        if(!taken[i]){
+            taken[i]=1;
+            t.push_back(s[i]);
+            solve(s,t,taken);
+            t.pop_back();
+            taken[i]=0;
         }
-        for(int i=0;i<tiles.size();++i){
-            if(taken[i]==false){
-                taken[i]=true;
-                solve(s+tiles[i],tiles,taken);
-                taken[i]=false;
-            }
-        }
+       }
     }
 public:
     int numTilePossibilities(string tiles) {
+        
         vector<bool>taken(tiles.size(),false);
-        solve("",tiles,taken);
+        string t;
+        solve(tiles,t,taken);
+
         return st.size();
     }
 };
