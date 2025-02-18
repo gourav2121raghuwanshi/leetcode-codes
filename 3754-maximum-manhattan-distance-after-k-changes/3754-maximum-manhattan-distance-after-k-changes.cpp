@@ -10,23 +10,22 @@ public:
         if (freq.size() == 1) {
             return mf;
         }
-        int ans=0;
+        int ans = 0;
         vector<string> dir = {"NE", "ES", "SW", "NW"};
-        for(auto&i:dir){
-            int temp=k;
-            int x=0;
-            int y=0;
-            for(auto&j:s){
-                if(j==i[0] || j==i[1]){
-                    if(j=='E' || j=='W') ++x;
-                    else ++y;
-                }else if(temp>0){
+        for (auto& i : dir) {
+            int temp = k;
+            int x = 0;
+            int y = 0;
+            for (auto& j : s) {
+                if (j == i[0] || j == i[1]) {
+                    ++x;
+                } else if (temp > 0) {
                     ++x;
                     --temp;
-                }else{
+                } else {
                     --x;
                 }
-                ans=max(ans,x+y);
+                ans = max(ans, x);
             }
         }
         return ans;
