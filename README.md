@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-count-mentions-per-user](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3721-count-mentions-per-user) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3760-assign-elements-to-groups-with-constraints) |
+| [3763-separate-squares-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3763-separate-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3427-special-array-ii) |
+| [3763-separate-squares-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3763-separate-squares-i) |
 ## Stack
 |  |
 | ------- |
