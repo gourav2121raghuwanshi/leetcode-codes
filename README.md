@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3721-count-mentions-per-user](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3721-count-mentions-per-user) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3760-assign-elements-to-groups-with-constraints) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Sorting
@@ -1315,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0204-count-primes) |
 | [1212-sequential-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1212-sequential-digits) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
