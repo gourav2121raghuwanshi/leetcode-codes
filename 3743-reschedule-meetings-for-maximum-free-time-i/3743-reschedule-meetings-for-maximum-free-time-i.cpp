@@ -1,28 +1,20 @@
 class Solution {
 public:
-    int maxFreeTime(int eventTime, int k, vector<int>& startTime,
-                    vector<int>& endTime) {
-        vector<int> gap;
-        int n = endTime.size();
-
+    int maxFreeTime(int eventTime, int k, vector<int>& startTime, vector<int>& endTime) {
+        vector<int>gap;
         gap.push_back(startTime[0]);
-        for (int i = 1; i < n; ++i) {
-            gap.push_back(startTime[i] - endTime[i - 1]);
+        for(int i=0;i<startTime.size()-1;++i){
+            gap.push_back(startTime[i+1]-endTime[i]);
         }
-        gap.push_back(eventTime - endTime.back());
-
-        int s = 0, sum = 0, maxi = 0;
-        int gapSize = gap.size();
-
-        for (int e = 0; e < k + 1; e++)
-            sum += gap[e];
-        maxi = sum;
-
-        for (int e = k + 1; e < gapSize; ++e) {
-            sum -= gap[s++];
-            sum += gap[e];
-            maxi = max(maxi, sum);
+        gap.push_back(eventTime-endTime.back());
+        int s=0;
+        int ans=0;
+        int sum=0;
+        for(int i=0;i<gap.size();++i){
+            sum+=gap[i];
+            if(i-k-1>=0) sum-=gap[i-k-1];
+            ans=max(ans,sum);
         }
-        return maxi;
+        return ans;
     }
 };
