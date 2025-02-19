@@ -1,31 +1,37 @@
 class Solution {
-    string ans = "";
-    void solve(int n, string& s, string& curr, int& c, int k) {
-        if (!ans.empty())
-            return;
-        if (n == 0) {
-            ++c;
-            if (c == k) {
-                ans = curr;
+    string ans;
+    bool solve(string s, int &n, int &k) {
+        if (s.size() == n) {
+            --k;
+            if (k == 0) {
+                ans = s;
+                return 1;
             }
-            return;
+            return 0;
         }
-
-        for (auto& i : s) {
-            if (curr.empty() || curr.back() != i) {
-                curr.push_back(i);
-                solve(n - 1, s, curr, c, k);
-                curr.pop_back();
+        if (s.empty()) {
+            for (char ch = 'a'; ch <= 'c'; ++ch) {
+                s.push_back(ch);
+                if (solve(s, n , k))
+                    return 1;
+                s.pop_back();
+            }
+        } else {
+            for (char ch = 'a'; ch <= 'c'; ++ch) {
+                if (s.back() != ch) {
+                    s.push_back(ch);
+                    if (solve(s, n, k))
+                        return 1;
+                    s.pop_back();
+                }
             }
         }
+        return false;
     }
 
 public:
     string getHappyString(int n, int k) {
-        string s = "abc";
-        string curr;
-        int c = 0;
-        solve(n, s, curr, c, k);
+        solve("", n, k);
         return ans;
     }
 };
