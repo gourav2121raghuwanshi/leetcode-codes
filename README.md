@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2232-adding-spaces-to-a-string) |
+| [2276-groups-of-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2276-groups-of-strings) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -1034,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1396-count-servers-that-communicate) |
+| [2276-groups-of-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2276-groups-of-strings) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
@@ -1233,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1940-maximum-xor-for-each-query](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2276-groups-of-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2276-groups-of-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2509-minimize-xor](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
