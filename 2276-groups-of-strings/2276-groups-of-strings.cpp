@@ -2,13 +2,10 @@ class Solution {
 
     class DSU {
     public:
-        vector<int> rank;
         vector<int> size;
-
         vector<int> par;
 
         DSU(int n) {
-            rank.resize(n, 0);
             size.resize(n, 1);
             par.resize(n);
             for (int i = 0; i < n; ++i) {
@@ -20,22 +17,6 @@ class Solution {
             if (a == par[a])
                 return a;
             return par[a] = parent(par[a]); // Path compression
-        }
-
-        void UnionByRank(int a, int b) {
-            int x = parent(a);
-            int y = parent(b);
-            if (x == y)
-                return;
-
-            if (rank[x] > rank[y]) {
-                par[y] = x;
-            } else if (rank[x] < rank[y]) {
-                par[x] = y;
-            } else {
-                par[y] = x;
-                ++rank[x];
-            }
         }
 
         void UnionBySize(int a, int b) {
@@ -74,10 +55,10 @@ public:
 
         for (int i = 0; i < n; ++i) {
             int currMask = mask[i];
-            if (maskIdx.count(currMask)) {
-                dsu.UnionBySize(i, maskIdx[currMask]);
-            }
+            dsu.UnionBySize(i, maskIdx[currMask]);
+
             for (auto& j : words[i]) {
+                // First we remove a character
                 int maskByRemovingJthChar = currMask ^ (1 << (j - 'a'));
                 if (maskIdx.count(maskByRemovingJthChar)) {
                     dsu.UnionBySize(i, maskIdx[maskByRemovingJthChar]);
@@ -85,9 +66,10 @@ public:
                 for (int k = 0; k < 26; ++k) {
                     if (k == j - 'a')
                         continue;
-                    int maskByReplacing = maskByRemovingJthChar | (1 << k);
-                    if (maskIdx.count(maskByReplacing)) {
-                        dsu.UnionBySize(i, maskIdx[maskByReplacing]);
+                    // Now add some other Character
+                    int maskByAddingChar = maskByRemovingJthChar | (1 << k);
+                    if (maskIdx.count(maskByAddingChar)) {
+                        dsu.UnionBySize(i, maskIdx[maskByAddingChar]);
                     }
                 }
             }
@@ -95,8 +77,9 @@ public:
         int msz = 0;
         unordered_set<int> st;
         for (int i = 0; i < n; ++i) {
-            st.insert(dsu.parent(i));
-            msz = max(msz, dsu.size[dsu.parent(i)]);
+            int par=dsu.parent(i);
+            st.insert(par);
+            msz = max(msz, dsu.size[par]);
         }
         return {(int)st.size(), msz};
     }
