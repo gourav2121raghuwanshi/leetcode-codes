@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
 | [1364-tuple-with-same-product](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1308-smallest-string-with-swaps) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1396-count-servers-that-communicate) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -1144,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1207-delete-nodes-and-return-forest) |
 | [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
@@ -1181,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1207-delete-nodes-and-return-forest) |
 | [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1484-linked-list-in-binary-tree) |
@@ -1204,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-exam-room](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0885-exam-room) |
 | [0931-maximum-frequency-stack](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0931-maximum-frequency-stack) |
 | [0955-complete-binary-tree-inserter](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0955-complete-binary-tree-inserter) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2161-stock-price-fluctuation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2161-stock-price-fluctuation) |
