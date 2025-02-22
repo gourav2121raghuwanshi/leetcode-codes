@@ -808,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1207-delete-nodes-and-return-forest) |
 | [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
@@ -1144,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-complete-binary-tree-inserter](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0955-complete-binary-tree-inserter) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1207-delete-nodes-and-return-forest) |
 | [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
@@ -1182,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-complete-binary-tree-inserter](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0955-complete-binary-tree-inserter) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1207-delete-nodes-and-return-forest) |
 | [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
