@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2439-longest-cycle-in-a-graph) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -1034,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -1163,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3576-find-subtree-sizes-after-changes) |
