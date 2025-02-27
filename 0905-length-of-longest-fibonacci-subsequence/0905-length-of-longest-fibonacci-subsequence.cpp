@@ -8,18 +8,17 @@ public:
         for (int i = 0; i < arr.size(); ++i) {
             mp[arr[i]] = i;
         }
-
-        for (int i = 0; i < arr.size(); ++i) {
+        int n=arr.size();
+        for (int i = 0; i < arr.size() && (n-i+1>ans); ++i) {
             for (int j = i + 1; j < arr.size(); ++j) {
                 int req = arr[i] + arr[j]; 
                 int idx = j, idx1 = i;
-                int l = 2;  // Reset length for each new pair
-                
-                // Continue while `req` exists in the map and its index is greater than `idx`
-                while (mp.find(req) != mp.end() && mp[req] > idx) {
+                int l = 2;  
+
+               while (mp.find(req) != mp.end() && mp[req] > idx) {
                     idx1 = idx;
                     idx = mp[req];
-                    req = arr[idx1] + arr[idx];  // Update `req` correctly
+                    req = arr[idx1] + arr[idx];  
                     ++l;
                 }
 
