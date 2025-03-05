@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2649-count-total-number-of-colored-cells](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3568-find-the-key-of-the-numbers) |
