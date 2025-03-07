@@ -1,43 +1,41 @@
-
 class Solution {
-    vector<bool> primes; // Use vector<bool> instead of vector<int>
-    
+    vector<int> primes;
     void getPrimes(int n) {
-        primes.assign(n + 1, true); // Use assign() to avoid reallocation
-        primes[0] = primes[1] = false; // 0 and 1 are not prime
-        
-        for (int i = 2; i * i <= n; ++i) {
-            if (primes[i]) {
-                for (int j = i * i; j <= n; j += i) { // Start marking from i * i
-                    primes[j] = false;
-                }
+        primes.resize(n + 1, 1);
+        primes[0] = primes[1] = 0;
+        for (int i = 2; i*i <= n; ++i) {
+            if (primes[i] == 0)
+                continue;
+            for (int j = i+i; j <= n; j += i) {
+                primes[j] = false;
             }
         }
     }
 
 public:
     vector<int> closestPrimes(int left, int right) {
-        getPrimes(right); // Generate primes up to 'right'
-        
+        getPrimes(right);
         vector<int> p;
-        for (int i = left; i <= right; i++) { // Iterate only from left to right
+        for (int i = 0; i <= right; i++) {
             if (primes[i])
                 p.push_back(i);
         }
-
-        if (p.size() < 2) return {-1, -1}; // If fewer than 2 primes, return {-1, -1}
-
-        int last = p[0], ans = 1e9;
+        int last = -1;
+        int ans = 1e9;
         vector<int> v = {-1, -1};
-        
-        for (int i = 1; i < p.size(); i++) {
-            if (p[i] - last < ans) {
-                ans = p[i] - last;
-                v = {last, p[i]};
+        for (auto& i : p) {
+            if (i >= left && i <= right) {
+                if (last == -1)
+                    last = i;
+                else {
+                    if (ans > i - last) {
+                        v = {last, i};
+                        ans = min(ans, i - last);
+                    }
+                }
+                last = i;
             }
-            last = p[i]; // Move last to current prime
         }
-        
         return v;
     }
 };
