@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3643-zero-array-transformation-ii) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3721-count-mentions-per-user](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3721-count-mentions-per-user) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3427-special-array-ii) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
+| [3643-zero-array-transformation-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3643-zero-array-transformation-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Dynamic Programming
 |  |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3643-zero-array-transformation-ii) |
 | [3763-separate-squares-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3763-separate-squares-i) |
 ## Stack
 |  |
