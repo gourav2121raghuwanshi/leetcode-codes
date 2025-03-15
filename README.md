@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0741-cherry-pickup) |
 | [0746-prefix-and-suffix-search](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0746-prefix-and-suffix-search) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0740-delete-and-earn](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0808-number-of-matching-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0808-number-of-matching-subsequences) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
+| [0741-cherry-pickup](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0921-spiral-matrix-iii) |
