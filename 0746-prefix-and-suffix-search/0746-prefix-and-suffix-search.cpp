@@ -1,17 +1,11 @@
 class node {
 public:
     node* link[26];
-    vector<int> index;
+    unordered_set<int> index;
 
     node() {
         for (int i = 0; i < 26; ++i)
             link[i] = nullptr;
-    }
-
-    ~node() { // Destructor to prevent memory leaks
-        for (int i = 0; i < 26; ++i) {
-            delete link[i];
-        }
     }
 };
 
@@ -20,11 +14,6 @@ class Trie {
     node* suffroot = new node();
 
 public:
-    ~Trie() { // Ensure allocated memory is freed
-        delete prefroot;
-        delete suffroot;
-    }
-
     void insertPref(const string& s, int idx) {
         node* curr = prefroot;
         for (char i : s) {
@@ -32,11 +21,11 @@ public:
                 curr->link[i - 'a'] = new node();
             }
             curr = curr->link[i - 'a'];
-            curr->index.push_back(idx);
+            curr->index.insert(idx);
         }
     }
 
-    vector<int> getIndexListPref(const string& s) {
+    unordered_set<int> getIndexListPref(const string& s) {
         node* curr = prefroot;
         for (char i : s) {
             if (!curr->link[i - 'a']) {
@@ -54,11 +43,11 @@ public:
                 curr->link[i - 'a'] = new node();
             }
             curr = curr->link[i - 'a'];
-            curr->index.push_back(idx);
+            curr->index.insert(idx);
         }
     }
 
-    vector<int> getIndexListSuff(const string& s) {
+    unordered_set<int> getIndexListSuff(const string& s) {
         node* curr = suffroot;
         for (char i : s) {
             if (!curr->link[i - 'a']) {
@@ -90,21 +79,20 @@ public:
     }
 
     int f(string pref, string suff) {
-        vector<int> a = trie.getIndexListPref(pref);
+        unordered_set<int> a = trie.getIndexListPref(pref);
         if (a.empty())
             return -1;
 
         reverse(suff.begin(), suff.end());
-        vector<int> b = trie.getIndexListSuff(suff);
+        unordered_set<int> b = trie.getIndexListSuff(suff);
 
         if (b.empty())
             return -1;
         int ans = -1;
-        reverse(b.begin(), b.end());
-        unordered_set<int> elements(a.begin(), a.end());
-        for (int& num : b) {
-            if (elements.count(num))
-            ans = max(ans, num);
+
+        for (int num : b) {
+            if (a.count(num))
+                ans = max(ans, num);
         }
 
         return ans;
