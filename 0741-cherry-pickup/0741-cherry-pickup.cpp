@@ -1,47 +1,42 @@
 class Solution {
+    // since both moves one step ahead (+1 always)
+    // therefore : r1+c1=r2+c2
+    // if we know r1,c1,c2 -> then we can get r2
     int n;
-    int dp[51][51][51][51];
-    int solve(int ar, int ac, int br, int bc, vector<vector<int>>& grid) {
-        if (ar >= n || ac >= n || br >= n || bc >= n || grid[ar][ac] == -1 ||
-            grid[br][bc] == -1)
+    int dp[51][51][51];
+    int solve(int r1, int c1, int c2, vector<vector<int>>& grid) {
+        int r2 = r1 + c1 - c2; // Compute r2 using the equation
+
+         if (r1 >= n || c1 >= n || r2 >= n || c2 >= n || grid[r1][c1] == -1 ||
+            grid[r2][c2] == -1)
             return -1e8;
 
         // If both reach the bottom-right corner
-        if (ar == n - 1 && ac == n - 1)
-            return grid[ar][ac];
+        if (r1 == n - 1 && c1 == n - 1)
+            return grid[r1][c1];
 
-        // Check memoization
-        if (dp[ar][ac][br][bc] != -1)
-            return dp[ar][ac][br][bc];
+        if (dp[r1][c1][c2] != -1)
+            return dp[r1][c1][c2];
 
-        int cherries = (ar == br && ac == bc) ? grid[ar][ac]
-                                              : (grid[ar][ac] + grid[br][bc]);
+        int cherry = grid[r1][c1];
+        if (c1 != c2)
+            cherry += grid[r2][c2]; // Avoid double counting
 
-        int val1 = grid[ar][ac];
-        int val2 = grid[br][bc];
-        grid[ar][ac] = 0;
-        grid[br][bc] = 0;
+        // Explore all movement options
+        int ans = -1e9;
+        ans = max(ans, solve(r1 + 1, c1, c2, grid));     // Down, down
+        ans = max(ans, solve(r1, c1 + 1, c2 + 1, grid)); // Right, right
+        ans = max(ans, solve(r1 + 1, c1, c2 + 1, grid)); // Down, right
+        ans = max(ans, solve(r1, c1 + 1, c2, grid));     // Right, down
 
-        int ans = max({
-            solve(ar + 1, ac, br + 1, bc, grid), // Both move down
-            solve(ar + 1, ac, br, bc + 1,
-                  grid), // ar moves down, br moves right
-            solve(ar, ac + 1, br + 1, bc,
-                  grid),                        // ar moves right, br moves down
-            solve(ar, ac + 1, br, bc + 1, grid) // Both move right
-        });
-
-        grid[ar][ac] = val1;
-        grid[br][bc] = val2;
-
-        return dp[ar][ac][br][bc] = ans + cherries;
+        return dp[r1][c1][c2] = ans + cherry;
     }
 
 public:
     int cherryPickup(vector<vector<int>>& grid) {
         n = grid.size();
         memset(dp, -1, sizeof(dp));
-        int result = solve(0, 0, 0, 0, grid);
-        return max(0, result);
+        int ans = solve(0, 0, 0, grid);
+        return ans < 0 ? 0 : ans;
     }
 };
