@@ -21,7 +21,7 @@ public:
     }
     
     int getKthAncestor(int node, int k) {
-        for(int i=0;i<Log;++i){
+        for(int i=Log;i>=0;--i){
             if(k&(1<<i)){
                 node=up[node][i];
                 if(node==-1) return -1;
