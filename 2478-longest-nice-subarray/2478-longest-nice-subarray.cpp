@@ -1,22 +1,15 @@
 class Solution {
 public:
     int longestNiceSubarray(vector<int>& nums) {
-        int setBits=0;
-        int s=0;
-        int ans=0;
+        int setBits = 0, s = 0, ans = 0;
 
-        for(int e=0;e<nums.size();++e){
-            for(int j=0;j<32;++j){
-                if(nums[e]&(1<<j)){
-                    if((setBits&(1<<j))){
-                        while(s<e && (setBits&(1<<j))){
-                            setBits-=nums[s++];
-                        }
-                    }
-                }
+        for (int e = 0; e < nums.size(); ++e) {
+            while ((setBits & nums[e]) !=
+                   0) { // Check if `nums[e]` shares bits with `setBits`
+                setBits ^= nums[s++]; // Remove `nums[s]` from setBits using XOR
             }
-            setBits+=nums[e];
-            ans=max(ans,e-s+1);
+            setBits |= nums[e]; // Add `nums[e]` to `setBits`
+            ans = max(ans, e - s + 1);
         }
         return ans;
     }
