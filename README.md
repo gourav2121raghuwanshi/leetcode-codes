@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0204-count-primes) |
+| [0212-word-search-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0221-maximal-square) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0216-combination-sum-iii) |
 | [0306-additive-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0357-count-numbers-with-unique-digits) |
@@ -843,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0306-additive-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
@@ -1358,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0386-lexicographical-numbers) |
 | [0677-map-sum-pairs](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0746-prefix-and-suffix-search) |
