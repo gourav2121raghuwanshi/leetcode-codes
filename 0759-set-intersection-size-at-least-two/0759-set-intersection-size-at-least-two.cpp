@@ -9,17 +9,16 @@ public:
              });
         int ans = 2;
         int p1 = intervals[0][1] - 1;
-        int p2 = intervals[0][1] ;
+        int p2 = intervals[0][1];
         for (int i = 1; i < intervals.size(); ++i) {
-            cout<<p1<<","<<p2<<endl;
             int a = intervals[i][0];
             int b = intervals[i][1];
             if (a <= p1)
                 continue;
             else if (a <= p2) {
                 ++ans;
-                if(p2==b){
-                    p1=b-1;
+                if (p2 == b) {
+                    p1 = b - 1;
                     continue;
                 }
                 p1 = p2;
