@@ -1,0 +1,131 @@
+class Solution {
+public:
+    vector<string> findAllRecipes(vector<string>& recipes,
+                                  vector<vector<string>>& ingredients,
+                                  vector<string>& supplies) {
+        unordered_map<string, vector<string>> ItisRequiredInOthers;
+        unordered_map<string, int> idxOfRecipe;
+        unordered_set<string> recips;
+        unordered_set<string> avaliIng;
+        for (int i = 0; i < recipes.size(); ++i) {
+            recips.insert(recipes[i]);
+            idxOfRecipe[recipes[i]] = i;
+        }
+        for (auto& i : supplies) {
+            avaliIng.insert(i);
+        }
+        (recipes.begin(), recipes.end());
+        int n = recipes.size();
+        unordered_map<string, int> in;
+        for (auto& i : recipes) {
+            in[i] = 0;
+        }
+        for (int i = 0; i < ingredients.size(); ++i) {
+            string s = recipes[i];
+            vector<string> curr = ingredients[i];
+            for (auto& j : curr) {
+
+                if (recips.count(j)) {
+                    ItisRequiredInOthers[j].push_back(s);
+                    in[s]++;
+                }
+            }
+        }
+        queue<string> q;
+        for (auto& i : recipes) {
+            bool take=true;
+            for(auto&j:ingredients[idxOfRecipe[i]]){
+                if(!avaliIng.count(j)){
+                    take=false;
+                    break;
+                }
+            }
+            if(take) q.push(i);
+        }
+
+        if (q.empty())
+            return {};
+        vector<string> ans;
+        while (!q.empty()) {
+            auto f = q.front();
+            q.pop();
+            avaliIng.insert(f);
+            ans.push_back(f);
+            for (auto& j : ItisRequiredInOthers[f]) {
+                --in[j];
+                if (in[j] == 0) {
+                    bool take=true;
+                    for(auto&k:ingredients[idxOfRecipe[j]]){
+                        if(!avaliIng.count(k)){
+                            take=false;
+                            break;
+                        }
+                    }
+                    if(take) q.push(j);
+                }
+            }
+        }
+        return ans;
+    }
+};
+// class Solution {
+// public:
+//     vector<string> findAllRecipes(vector<string>& recipes,
+//                                   vector<vector<string>>& ingredients,
+//                                   vector<string>& supplies) {
+//         unordered_map<string, vector<string>> ItisRequiredInOthers;
+//         unordered_map<string, int> idxOfRecipe;
+//         unordered_set<string> recips(recipes.begin(), recipes.end());
+//         unordered_set<string> avaliIng(supplies.begin(), supplies.end());
+        
+//         int n = recipes.size();
+//         unordered_map<string, int> in;
+
+//         // Store the index of each recipe
+//         for (int i = 0; i < n; ++i) {
+//             idxOfRecipe[recipes[i]] = i;
+//             in[recipes[i]] = 0; // Initialize in-degree count
+//         }
+
+//         // Build dependency graph
+//         for (int i = 0; i < n; ++i) {
+//             for (auto& ing : ingredients[i]) {
+//                 if (recips.count(ing)) {
+//                     ItisRequiredInOthers[ing].push_back(recipes[i]);
+//                     in[recipes[i]]++; // Increment in-degree
+//                 }
+//             }
+//         }
+
+//         queue<string> q;
+
+//         // Push recipes with all ingredients available in `supplies`
+//         for (int i = 0; i < n; ++i) {
+//             bool canMake = true;
+//             for (auto& ing : ingredients[i]) {
+//                 if (!avaliIng.count(ing)) {
+//                     canMake = false;
+//                     break;
+//                 }
+//             }
+//             if (canMake) {
+//                 q.push(recipes[i]);
+//             }
+//         }
+
+//         vector<string> ans;
+//         while (!q.empty()) {
+//             string f = q.front();
+//             q.pop();
+//             ans.push_back(f);
+//             avaliIng.insert(f); // Now this recipe can be used in other recipes
+            
+//             for (auto& next : ItisRequiredInOthers[f]) {
+//                 if (--in[next] == 0) {
+//                     q.push(next);
+//                 }
+//             }
+//         }
+//         return ans;
+//     }
+// };
