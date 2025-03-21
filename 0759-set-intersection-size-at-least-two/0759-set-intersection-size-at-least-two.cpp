@@ -7,32 +7,38 @@ public:
                      return a[1] < b[1];
                  return a[0] < b[0];
              });
-        unordered_set<int> ans;
+        // vector<int> ans;
+        set<int> ans;
         ans.insert(intervals[0][1] - 1);
         ans.insert(intervals[0][1]);
         for (int i = 1; i < intervals.size(); ++i) {
+        
             int a = intervals[i][0];
             int b = intervals[i][1];
-            int c = 0;
-            for (auto& i : ans) {
-                if (i >= a && i <= b) {
-                    ++c;
-                }
-            }
-            if (c >= 2)
+            int n = ans.size();
+            auto it = ans.end();
+            --it;
+            auto it1 = it;
+            --it1;
+            if (a <= *it1) {
                 continue;
-            else if (c == 1) {
-                while (ans.count(b))
-                    --b;
-                ans.insert(b);
+            } else if (a <= *it) {
+                if (*it != b)
+                    ans.insert(b);
+                else
+                    ans.insert(b - 1);
             } else {
-                while (ans.count(b))
-                    --b;
-                ans.insert(b);
+                if (*it != b)
+                    ans.insert(b);
+                else
+                    ans.insert(b - 1);
                 --b;
-                while (ans.count(b))
-                    --b;
-                ans.insert(b);
+                auto it = ans.end();
+                --it;
+                if (*it != b)
+                    ans.insert(b);
+                else
+                    ans.insert(b - 1);
             }
         }
 
