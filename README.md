@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0547-number-of-provinces) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0684-redundant-connection) |
 | [0750-contain-virus](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0750-contain-virus) |
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0741-cherry-pickup](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0741-cherry-pickup) |
 | [0750-contain-virus](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0750-contain-virus) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
@@ -1173,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0885-exam-room](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0885-exam-room) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
