@@ -32,28 +32,28 @@ class Solution {
 public:
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
         DSU dsu(n);
-        unordered_map<int,vector<int>>adj;
+        unordered_map<int,int>adj;
         for(auto&i:edges){
             int a=i[0];
             int b=i[1];
-            adj[a].push_back(b);
-            adj[b].push_back(a);
+            adj[a]++;
+            adj[b]++;
             if(dsu.parent(a)!=dsu.parent(b)){
                     dsu.unionByRank(a,b);
             }
         }
-        unordered_map<int,unordered_set<int>>mp;
+        unordered_map<int,int>mp;
         unordered_map<int,bool>chk;
         for(int i=0;i<n;i++){
-            mp[dsu.parent(i)].insert(i);
+            mp[dsu.parent(i)]++;
             chk[dsu.parent(i)]=true;
         }
         int total=mp.size();
          
        
         for(int i=0;i<n;i++){
-            int val=mp[dsu.parent(i)].size()-1;
-            if(adj[i].size()!=val){
+            int val=mp[dsu.parent(i)]-1;
+            if(adj[i]!=val){
                 chk[dsu.parent(i)]=false;
             }
         }
