@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-prefix-and-suffix-search](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0746-prefix-and-suffix-search) |
 | [0750-contain-virus](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0750-contain-virus) |
 | [0759-set-intersection-size-at-least-two](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0759-set-intersection-size-at-least-two) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 | [0808-number-of-matching-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0808-number-of-matching-subsequences) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0768-partition-labels) |
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0759-set-intersection-size-at-least-two) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0808-number-of-matching-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0808-number-of-matching-subsequences) |
 | [0883-car-fleet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0883-car-fleet) |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0883-car-fleet) |
 | [0931-maximum-frequency-stack](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0931-maximum-frequency-stack) |
@@ -1343,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0739-daily-temperatures) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0943-sum-of-subarray-minimums) |
