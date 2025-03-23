@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxChunksToSorted(vector<int>& arr) {
         // appraoch1      // logic :if at index i :
-        //  prefMax(Not Include i) <= SuffMin(include i)
+        //  prefMax(Not Include i) < SuffMin(include i) [strictly less because all unique elements]
         //   (then chunk++ at index i)
 
         // approach2 : make array b=arr
