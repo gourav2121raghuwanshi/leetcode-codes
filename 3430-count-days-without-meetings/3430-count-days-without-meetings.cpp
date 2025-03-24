@@ -9,11 +9,8 @@ public:
         }
         long long csum = 0;
         auto it = mp.begin();
-        int prev = it->first;
-        csum = it->second;
-
-        ans += prev - 1;
-        ++it;
+        int prev = 0;
+        csum = 0;
         while (it != mp.end()) {
             if (csum == 0) {
                 if (it->first != prev)
