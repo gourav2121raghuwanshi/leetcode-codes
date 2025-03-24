@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0547-number-of-provinces) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0685-redundant-connection-ii) |
 | [0750-contain-virus](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0750-contain-virus) |
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0685-redundant-connection-ii) |
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
 | [0801-is-graph-bipartite](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0687-longest-univalue-path) |
 | [0750-contain-virus](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0750-contain-virus) |
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
@@ -1154,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0685-redundant-connection-ii) |
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
 | [0801-is-graph-bipartite](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0854-making-a-large-island) |
