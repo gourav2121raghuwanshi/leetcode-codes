@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0869-similar-string-groups) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0945-snakes-and-ladders) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0883-car-fleet) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0907-koko-eating-bananas) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0750-contain-virus](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0750-contain-virus) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0854-making-a-large-island) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0921-spiral-matrix-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
@@ -1387,6 +1390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0795-k-th-symbol-in-grammar](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0795-k-th-symbol-in-grammar) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
