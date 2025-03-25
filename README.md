@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2665-minimum-time-to-repair-cars](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2509-minimize-xor) |
 | [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2681-put-marbles-in-bags) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1216,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2681-put-marbles-in-bags](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2868-continuous-subarrays) |
