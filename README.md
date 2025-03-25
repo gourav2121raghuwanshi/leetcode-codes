@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2792-neighboring-bitwise-xor) |
+| [2845-find-the-value-of-the-partition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2845-find-the-value-of-the-partition) |
 | [2868-continuous-subarrays](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2845-find-the-value-of-the-partition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2845-find-the-value-of-the-partition) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
