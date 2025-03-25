@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
+| [0561-array-partition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0611-valid-triangle-number) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
+| [0561-array-partition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0621-task-scheduler) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0475-heaters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0621-task-scheduler) |
@@ -1552,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0948-sort-an-array) |
 ## Data Stream
 |  |
