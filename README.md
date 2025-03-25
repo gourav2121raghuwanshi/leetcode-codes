@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1972-rotating-the-box) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2145-grid-game) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1972-rotating-the-box](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1972-rotating-the-box) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1917-maximum-average-pass-ratio) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
