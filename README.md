@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0152-maximum-product-subarray) |
@@ -902,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0151-reverse-words-in-a-string) |
