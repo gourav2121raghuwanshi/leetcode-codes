@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0287-find-the-duplicate-number) |
 | [0307-range-sum-query-mutable](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0307-range-sum-query-mutable) |
+| [0312-burst-balloons](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0368-largest-divisible-subset) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0264-ugly-number-ii) |
+| [0312-burst-balloons](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0312-burst-balloons) |
 | [0343-integer-break](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0368-largest-divisible-subset) |
