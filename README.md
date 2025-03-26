@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-valid-permutations-for-di-sequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0939-valid-permutations-for-di-sequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0954-maximum-sum-circular-subarray) |
+| [0956-number-of-music-playlists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0956-number-of-music-playlists) |
 | [1025-minimum-cost-for-tickets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1087-longest-arithmetic-subsequence) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0738-monotone-increasing-digits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0795-k-th-symbol-in-grammar) |
 | [0909-stone-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0909-stone-game) |
+| [0956-number-of-music-playlists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0956-number-of-music-playlists) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0989-largest-component-size-by-common-factor) |
 | [1240-stone-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1585,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0956-number-of-music-playlists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0956-number-of-music-playlists) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Rolling Hash
 |  |
