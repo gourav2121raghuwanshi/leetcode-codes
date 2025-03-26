@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0131-palindrome-partitioning) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0155-min-stack) |
@@ -1375,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0503-next-greater-element-ii) |
