@@ -1,30 +1,34 @@
 class Solution {
-    bool isPossible(const string& a, const string& b) {
-        if (a.size() + 1 != b.size())
-            return false;
-        int i = 0, j = 0;
-        while (i < a.size() && j < b.size()) {
-            if (a[i] == b[j])
-                ++i;
-            ++j;
-        }
-        return i == a.size();
-    }
-
 public:
     int longestStrChain(vector<string>& words) {
-        auto comp = [](const string& a, const string& b) {
-            return a.size() < b.size();
-        };
-        sort(words.begin(), words.end(), comp);
+        sort(words.begin(), words.end(), [](const string& a, const string& b) {
+            if (a.size() != b.size())
+                return a.size() < b.size();
+            return a <= b;
+        });
+        for (auto& i : words)
+            cout << i << " ";
+        cout << endl;
         int n = words.size();
-        vector<int> dp(n + 1, 1);
+        vector<int> dp(n, 1);
         int ans = 1;
         for (int i = 1; i < n; ++i) {
             for (int j = 0; j < i; ++j) {
-                if (words[i].size() ==
-                      words[j].size() + 1 && isPossible(words[j], words[i])) {
-                    dp[i] = max(dp[i], 1 + dp[j]);
+                if (words[i].size() - words[j].size() == 1) {
+                    string a = words[j];
+                    string b = words[i];
+                    int cnt = 0;
+                    int l = 0;
+                    int r = 0;
+                    while (l < a.size() && r < b.size()) {
+                        if (a[l] == b[r])
+                            ++l, ++r;
+                        else
+                            ++cnt, ++r;
+                    }
+                    if (cnt <= 1 && l == a.size()) {
+                        dp[i] = max(dp[i], 1 + dp[j]);
+                    }
                 }
             }
             ans = max(ans, dp[i]);
