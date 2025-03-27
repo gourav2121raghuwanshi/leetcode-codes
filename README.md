@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0131-palindrome-partitioning) |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0139-word-break) |
