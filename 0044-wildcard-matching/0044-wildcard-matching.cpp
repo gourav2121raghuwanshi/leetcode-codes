@@ -1,5 +1,5 @@
 class Solution {
-    int dp[2001][2001];
+    // int dp[2001][2001];
     // bool solve(int i, int j, string& s, string& p) {
     //     if (i >= s.size()) {
     //         if (j == p.size())
@@ -26,35 +26,41 @@ class Solution {
     //         return dp[i][j] = false;
     // }
 
-
 public:
     bool isMatch(string s, string p) {
-        memset(dp, 0, sizeof(dp));
+        // memset(dp, 0, sizeof(dp));
 
         int n = s.size();
         int m = p.size();
+        vector<int> curr(m + 1, 0);
+        vector<int> prev(m + 1, 0);
+
 
         // Base Cases
-        dp[n][m] = 1;
+        prev[m] = 1;
         for (int j = m - 1; j >= 0; --j) {
             if (p[j] == '*')
-                dp[n][j] = dp[n][j + 1]; 
+                prev[j] = prev[j + 1];
             else
                 break;
         }
         
+        if(n==0 && prev[0]==true) return true;
+
+
         for (int i = n - 1; i >= 0; --i) {
             for (int j = m - 1; j >= 0; --j) {
                 if (s[i] == p[j]) {
-                    dp[i][j] = dp[i + 1][j + 1];
+                    curr[j] = prev[j + 1];
                 } else if (p[j] == '?') {
-                    dp[i][j] = dp[i + 1][j + 1];
+                    curr[j] = prev[j + 1];
                 } else if (p[j] == '*') {
-                    dp[i][j] = dp[i + 1][j] || dp[i][j + 1];
+                    curr[j] = prev[j] || curr[j + 1];
                 } else
-                    dp[i][j] = false;
+                    curr[j] = false;
             }
+            prev = curr;
         }
-        return dp[0][0];
+        return curr[0];
     }
 };
