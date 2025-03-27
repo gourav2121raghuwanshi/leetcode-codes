@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0115-distinct-subsequences) |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0131-palindrome-partitioning) |
