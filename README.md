@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0055-jump-game) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0179-largest-number) |
@@ -915,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0115-distinct-subsequences) |
@@ -1487,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0394-decode-string) |
