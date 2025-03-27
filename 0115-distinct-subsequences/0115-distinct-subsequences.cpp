@@ -1,5 +1,5 @@
 class Solution {
-    long long dp[1001][1001];
+    // long long dp[1001][1001];
     // int solve(int i, int j, string& s, string& t) {
     //     if (j >= t.size())
     //         return 1;
@@ -18,25 +18,30 @@ class Solution {
 
 public:
     int numDistinct(string s, string t) {
-        memset(dp, 0, sizeof(dp));
+        // memset(dp, 0, sizeof(dp));
         int n = s.size();
         int m = t.size();
         // Base case
-        for(int i=0;i<=n;i++){
-            dp[i][m]=1;
-        }
+        vector<int> curr(m + 1, 0);
+        vector<int> prev(m + 1, 0);
+        // for(int i=0;i<=n;i++){
+        //     dp[i][m]=1;
+        // }
+        curr[m] = 1;
+        prev[m] = 1;
         for (int i = n - 1; i >= 0; --i) {
             for (int j = m - 1; j >= 0; j--) {
                 if (s[i] == t[j]) {
-                    long long take = dp[i+1][j+1];
-                    long long ntake =dp[i+1][j]; 
-                     dp[i][j] = (take + ntake)%((int)1e9+7);
+                    long long take = prev[j + 1];
+                    long long ntake = prev[j];
+                    curr[j] = (take + ntake) % ((int)1e9 + 7);
                 } else {
-                    dp[i][j] =dp[i+1][j] ;
+                    curr[j] = prev[j];
                 }
             }
+            prev=curr;
         }
-        return dp[0][0];
+        return curr[0];
         // return solve(0, 0, s, t);
     }
 };
