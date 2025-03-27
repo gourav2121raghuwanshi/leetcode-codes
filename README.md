@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0650-2-keys-keyboard) |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0399-evaluate-division) |
+| [0583-delete-operation-for-two-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0647-palindromic-substrings) |
 | [0677-map-sum-pairs](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0677-map-sum-pairs) |
