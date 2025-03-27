@@ -22,23 +22,27 @@ public:
         memset(dp, 0, sizeof(dp));
         int n = a.size();
         int m = b.size();
-        for(int i=0;i<=n;++i){
-            dp[i][m]=n-i;
-        }
+        vector<int>curr(m+1,0);
+        vector<int>prev(m+1,0);
+        // for(int i=0;i<=n;++i){
+        //     dp[i][m]=n-i;
+        // }
         for(int j=0;j<=m;++j){
-            dp[n][j]=m-j;
+            prev[j]=m-j;
         }
         for (int i = n - 1; i >= 0; --i) {
+            curr[m]=n-i;
             for (int j = m - 1; j >= 0; --j) {
                 if (a[i] == b[j]) {
-                    dp[i][j] = dp[i + 1][j + 1];
+                    curr[j] = prev[j + 1];
                     //  solve(i+1,j+1,a,b);
                 } else {
-                    dp[i][j] = 1 + min(dp[i + 1][j], dp[i][j + 1]);
+                    curr[j] = 1 + min(prev[j], curr[j + 1]);
                 }
             }
+            prev=curr;
         }
-        return dp[0][0];
+        return curr[0];
         //   return solve(0,0,word1,word2) ;
     }
 };
