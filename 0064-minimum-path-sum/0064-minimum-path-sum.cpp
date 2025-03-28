@@ -15,16 +15,20 @@ public:
     int minPathSum(vector<vector<int>>& grid) {
         n=grid.size();
         m=grid[0].size();
-        memset(dp,1e6,sizeof(dp));
-        dp[n-1][m-1]=grid[n-1][m-1];
+        vector<int>curr(m+1,1e6);
+        vector<int>prev(m+1,1e6);
+        // memset(dp,1e6,sizeof(dp));
+        // dp[n-1][m-1]=grid[n-1][m-1];
+        curr[m-1]=prev[m-1]=grid[n-1][m-1];
         for(int i=n-1;i>=0;--i){
             for(int j=m-1;j>=0;--j){
                 if(i==n-1 && j==m-1) continue;
-                else dp[i][j] = grid[i][j]+min(dp[i+1][j] ,dp[i][j+1]);
+                else curr[j] =grid[i][j]+min(prev[j] ,curr[j+1]);
             }
+            prev=curr;
         }
 
-        return dp[0][0];
+        return curr[0];
         // return solve(0,0,grid);
     }
 };
