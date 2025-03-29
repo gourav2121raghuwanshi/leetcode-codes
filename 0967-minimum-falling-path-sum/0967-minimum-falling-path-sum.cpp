@@ -37,21 +37,11 @@ public:
         }
 
         for (int i = n - 1; i >= 0; --i) {
-            for (int j = 0; j < m; ++j) {
-                // if (i == 0) {
-                //     for (int k = 0; k < m; ++k) {
-                //         dp[i][j] = min(dp[i][j],
-                //                        matrix[i][j] +
-                //                            min({dp[i + 1][j], dp[i + 1][j + 1],
-                //                                 (j - 1 >= 0 ? dp[i + 1][j - 1]
-                //                                             : (int)1e8)}));
-                //     }
-                // } else {
+            for (int j = m-1; j >=0; --j) {
                     dp[i][j] =
                         matrix[i][j] +
                         std::min({dp[i + 1][j], dp[i + 1][j + 1],
                                   (j - 1 >= 0 ? dp[i + 1][j - 1] : (int)1e8)});
-                // }
             }
         }
         int ans = 1e9;
