@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2681-put-marbles-in-bags) |
+| [3001-apply-operations-to-maximize-score](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-find-the-value-of-the-partition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2845-find-the-value-of-the-partition) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3430-count-days-without-meetings) |
@@ -883,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3568-find-the-key-of-the-numbers) |
@@ -1111,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3634-find-mirror-score-of-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3634-find-mirror-score-of-a-string) |
 ## Counting
@@ -1440,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1219-longest-well-performing-interval](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1219-longest-well-performing-interval) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3001-apply-operations-to-maximize-score](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Doubly-Linked List
 |  |
@@ -1607,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-largest-component-size-by-common-factor](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0989-largest-component-size-by-common-factor) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 ## Iterator
 |  |
 | ------- |
