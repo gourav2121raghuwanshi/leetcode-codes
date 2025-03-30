@@ -1,30 +1,38 @@
 class Solution {
 public:
     vector<int> partitionLabels(string s) {
-        vector<int>freq(26,0);
-        for(auto&i:s){
-            ++freq[i-'a'];
+        unordered_set<char> curr;
+        int n = s.size();
+
+        vector<int> freq(26, 0);
+        for (auto& i : s) {
+            ++freq[i - 'a'];
         }
-        vector<int>ans;
-        int c=0;
-        unordered_set<char>st;
-        for(int i=0;i<s.size();++i){
-            --freq[s[i]-'a'];
-            if(freq[s[i]-'a']==0){
-                bool f=false;
-                for(auto&j:st){
-                    if(freq[j-'a']!=0){
-                        f=true;
+        vector<int> ans;
+        int last = -1;
+        for (int j = 0; j < s.size(); ++j) {
+            char i = s[j];
+            curr.insert(i);
+            --freq[i - 'a'];
+            bool f = 1;
+            if (freq[i - 'a'] == 0) {
+                for (auto& jj : curr) {
+
+                    if (freq[jj - 'a'] > 0) {
+                        f = 0;
                         break;
                     }
                 }
-                if(!f){
-                    ans.push_back(i-c+1);
-                    c=i+1;
-                    st.clear();
+                if (f) {
+                    int val = j;
+                    if (last != -1)
+                        val -= last;
+                    if(ans.empty())
+                    ans.push_back(val + 1);
+                    else ans.push_back(val);
+                    last = j;
+                    curr.clear();
                 }
-            }else{
-                st.insert(s[i]);
             }
         }
         return ans;
