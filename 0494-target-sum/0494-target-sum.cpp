@@ -1,17 +1,24 @@
 class Solution {
-    unordered_map<string,int>mp;
-    string key(int a,int b){
-        return to_string(a)+":"+to_string(b);
+    int n;
+    string getKey(int i,int sum){
+        return to_string(i)+":"+to_string(sum);
     }
-    int solve(int i,int s,vector<int>& nums, int t){
-        if(t==s && i==nums.size()) return 1;
-        if(i>=nums.size()) return 0;
-        string k=key(i,s);
-        if(mp.count(k)) return mp[k];
-        return mp[k] = solve(i+1,s+nums[i],nums,t)+solve(i+1,s-nums[i],nums,t);
+    unordered_map<string,int>dp;
+    int solve(int i, vector<int>& nums, int sum, int target) {
+        if (i == n) {
+            return target == sum;
+        }
+        string k=getKey(i,sum);
+        if(dp.count(k)) return dp[k];
+        int takePluse = solve(i + 1, nums, sum + nums[i], target);
+        int takeMinus = solve(i + 1, nums, sum - nums[i], target);
+        return dp[k] = takePluse + takeMinus;
     }
+
 public:
-    int findTargetSumWays(vector<int>& nums, int t) {
-        return solve(0,0,nums,t);
+    int findTargetSumWays(vector<int>& nums, int target) {
+        
+        n = nums.size();
+        return solve(0, nums, 0, target);
     }
 };
