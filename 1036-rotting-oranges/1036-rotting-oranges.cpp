@@ -1,49 +1,50 @@
 class Solution {
-    using v=vector<int>;
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int n=grid.size();
-        int m=grid[0].size();
-        queue<v>q;
-        int ans=0;
-        int row[]={0,0,1,-1};
-        int col[]={1,-1,0,0};
-        int oc=0;
-        for(int i=0;i<n;++i){
-            for(int j=0;j<m;++j){
-                if(grid[i][j]==2){
-                    q.push({i,j});
-                    grid[i][j]=0;
-                }else if(grid[i][j]==1) ++oc;
+        int n = grid.size();
+        int m = grid[0].size();
+        int ans = 0;
+        vector<vector<bool>> vis(n, vector<bool>(m, false));
+        queue<pair<int, int>> q;
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < m; ++j) {
+                if (grid[i][j] == 2) {
+                    q.push({i, j});
+                    vis[i][j] = 1;
+                }
             }
         }
-        int ovis=0;
-        while(!q.empty()){
-            bool f=false;
-            int size=q.size();
-            while(size--){
-                auto front=q.front();
+        vector<pair<int, int>> dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+        while (!q.empty()) {
+            bool foundRotten = false;
+            int sz = q.size();
+            while (sz--) {
+                auto [x, y] = q.front();
                 q.pop();
-                int x=front[0];
-                int y=front[1];
+                for (auto& k : dir) {
+                    int dx = x + k.first;
+                    int dy = y + k.second;
+                    if (dx >= 0 && dy >= 0 && dx < n && dy < m &&
+                        !vis[dx][dy] && grid[dx][dy] == 1) {
+                        foundRotten = true;
+                        grid[dx][dy] = 2;
 
-                for(int k=0;k<4;++k){
-                    int dr=row[k]+x;
-                    int dc=col[k]+y;
-                    if(dr>=0 && dc>=0 && dr<n && dc<m && grid[dr][dc]==1){
-                        f=true;
-                        grid[dr][dc]=0;
-                        q.push({dr,dc});
-                        ++ovis;
+                        vis[dx][dy] = true;
+                        q.push({dx, dy});
                     }
                 }
             }
-            if(f){
-                ++ans;
-            }else break;
+            if (foundRotten == false)
+                break;
+            ++ans;
         }
-        if(oc==ovis)
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < m; ++j) {
+                if (grid[i][j] == 1) {
+                    return -1;
+                }
+            }
+        }
         return ans;
-        return -1;
     }
 };
