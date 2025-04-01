@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1117-as-far-from-land-as-possible) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1275-validate-binary-tree-nodes) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1129-longest-string-chain) |
 | [1138-grumpy-bookstore-owner](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1138-grumpy-bookstore-owner) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1184-car-pooling) |
 | [1196-filling-bookcase-shelves](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1196-filling-bookcase-shelves) |
 | [1206-corporate-flight-bookings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1206-corporate-flight-bookings) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1117-as-far-from-land-as-possible) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1242-matrix-block-sum) |
 | [1342-queens-that-can-attack-the-king](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1342-queens-that-can-attack-the-king) |
 | [1396-count-servers-that-communicate](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1396-count-servers-that-communicate) |
