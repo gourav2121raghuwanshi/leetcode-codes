@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0685-redundant-connection-ii) |
+| [0744-network-delay-time](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0744-network-delay-time) |
 | [0750-contain-virus](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0750-contain-virus) |
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
 | [0787-sliding-puzzle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0787-sliding-puzzle) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0685-redundant-connection-ii) |
+| [0744-network-delay-time](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0744-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
 | [0801-is-graph-bipartite](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0399-evaluate-division) |
+| [0744-network-delay-time](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1325-path-with-maximum-probability](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1325-path-with-maximum-probability) |
@@ -1218,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0687-longest-univalue-path) |
+| [0744-network-delay-time](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0744-network-delay-time) |
 | [0750-contain-virus](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0750-contain-virus) |
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1304,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0744-network-delay-time](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0885-exam-room](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0885-exam-room) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
