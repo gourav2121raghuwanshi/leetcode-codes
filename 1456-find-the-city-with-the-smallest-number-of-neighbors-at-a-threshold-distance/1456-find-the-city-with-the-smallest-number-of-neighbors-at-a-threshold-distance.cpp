@@ -1,42 +1,45 @@
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        vector<vector<int>> dist(n, vector<int>(n, 1e9));
-        for (int i = 0; i < n; ++i) {
+        vector<vector<int>> dist(n, vector<int>(n, 1e7));
+       
+        for (int i = 0; i < n; i++)
             dist[i][i] = 0;
-        }
         for (auto& i : edges) {
-            dist[i[0]][i[1]] = i[2];
-            dist[i[1]][i[0]] = i[2];
+            int a = i[0];
+            int b = i[1];
+            int w = i[2];
+            dist[a][b] = w;
+            dist[b][a] = w;
         }
-        for (int k = 0; k < n; k++) {
-            for (int i = 0; i < n; i++) {
-                for (int j = 0; j < n; j++) {
-                    if (dist[i][k] != 1e9 && dist[k][j] != 1e9 &&
-                        dist[i][j] > dist[i][k] + dist[k][j]) {
+        
+
+        for (int k = 0; k < n; ++k) {
+            for (int i = 0; i < n; ++i) {
+                for (int j = 0; j < n; ++j) {
+                    if (dist[i][k] != 1e7 && dist[k][j] != 1e7 &&
+                        dist[i][k] + dist[k][j] < dist[i][j]) {
                         dist[i][j] = dist[i][k] + dist[k][j];
                     }
                 }
             }
         }
-        int ans = 1e9;
-        int node = -1;
-        for (int i = 0; i < n; i++) {
+        int mini = 1e9;
+        int ans = -1;
+
+        for (int i = 1; i <= n; i++) {
             int cnt = 0;
-            for (int j = 0; j < n; j++) {
-                if (i == j)
-                    continue;
-                if (dist[i][j] <= distanceThreshold) {
+            for (int j = 0; j < n; ++j) {
+                if (dist[i - 1][j] <= distanceThreshold)
                     ++cnt;
-                }
             }
-            if (cnt < ans) {
-                ans = cnt;
-                node = i;
-            }else if (cnt == ans) {
-                node = i;
-            }
+            if (cnt < mini) {
+                mini = cnt;
+                ans = i - 1;
+            } else if (cnt == mini)
+                ans = i - 1;
         }
-        return node;
+
+        return ans;
     }
 };
