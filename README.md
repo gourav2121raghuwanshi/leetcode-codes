@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0685-redundant-connection-ii) |
+| [0721-accounts-merge](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0744-network-delay-time) |
 | [0750-contain-virus](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0750-contain-virus) |
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0713-subarray-product-less-than-k) |
+| [0721-accounts-merge](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0740-delete-and-earn) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0677-map-sum-pairs](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0677-map-sum-pairs) |
 | [0691-stickers-to-spell-word](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
+| [0721-accounts-merge](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0740-delete-and-earn) |
 | [0746-prefix-and-suffix-search](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0746-prefix-and-suffix-search) |
 | [0768-partition-labels](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0768-partition-labels) |
@@ -766,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0759-set-intersection-size-at-least-two) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
@@ -997,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0686-repeated-string-match) |
 | [0691-stickers-to-spell-word](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
+| [0721-accounts-merge](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0721-accounts-merge) |
 | [0746-prefix-and-suffix-search](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0746-prefix-and-suffix-search) |
 | [0768-partition-labels](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0768-partition-labels) |
 | [0808-number-of-matching-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0808-number-of-matching-subsequences) |
@@ -1227,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0687-longest-univalue-path) |
+| [0721-accounts-merge](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0744-network-delay-time) |
 | [0750-contain-virus](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0750-contain-virus) |
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
@@ -1283,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0685-redundant-connection-ii) |
+| [0721-accounts-merge](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0721-accounts-merge) |
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
 | [0801-is-graph-bipartite](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0854-making-a-large-island) |
