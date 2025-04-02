@@ -32,48 +32,35 @@ public:
 class Solution {
 public:
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
-        unordered_map<string, vector<int>> idx;
+        unordered_map<string, int> MailPar;
         int n = accounts.size();
         DSU dsu(n);
         for (int i = 0; i < n; ++i) {
             for (int j = 1; j < accounts[i].size(); ++j) {
-                idx[accounts[i][j]] .push_back(i);
-            }
-        }
-
-        for (auto& i : idx) {
-            vector<int> v = i.second;
-            for (int j = 1; j < v.size(); ++j) {
-                dsu.UnionBySize(v[j], v[j - 1]);
-            }
-        }
-        unordered_map<int, int> par;
-        for (int i = 0; i < n; i++) {
-            par[i] = dsu.parent(i);
-        }
-        
-        // vector<vector<string>>ans;
-        unordered_map<int, vector<string>> ans;
-        for (int i = 0; i < accounts.size(); ++i) {
-            for (int j = 1; j < accounts[i].size(); ++j)
-            {
-                if(ans[par[i]].empty()){
-                    ans[par[i]].push_back(accounts[i][0]);
+                if (MailPar.count(accounts[i][j])) {
+                    dsu.UnionBySize(i, MailPar[accounts[i][j]]);
+                } else {
+                    MailPar[accounts[i][j]] = i;
                 }
-                ans[par[i]].push_back(accounts[i][j]);
             }
         }
-        vector<vector<string>> v;
-       for(auto&i:ans){
-        vector<string>st=i.second;
-        string name=st[0];
-        set<string>s(st.begin()+1,st.end());
-        vector<string>temp;
-        temp.push_back(name);
-        for(auto&i:s) temp.push_back(i);
-        v.push_back(temp);
 
-       }
-       return v;
+        unordered_map<int, set<string>> ans;
+        for (auto& i : MailPar) {
+            ans[dsu.parent(i.second)].insert(i.first);
+        }
+
+        vector<vector<string>> v;
+        for (auto& i : ans) {
+            int idx = i.first;
+            set<string> st = i.second;
+            string name = accounts[idx][0];
+            vector<string> temp;
+            temp.push_back(name);
+            for (auto& i : st)
+                temp.push_back(i);
+            v.push_back(temp);
+        }
+        return v;
     }
 };
