@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0869-similar-string-groups) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0884-k-similar-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0884-k-similar-strings) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0922-possible-bipartition) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0808-number-of-matching-subsequences) |
 | [0833-bus-routes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0833-bus-routes) |
 | [0869-similar-string-groups](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0869-similar-string-groups) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0906-walking-robot-simulation) |
@@ -1269,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0832-binary-tree-pruning) |
 | [0854-making-a-large-island](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0869-similar-string-groups) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1437,6 +1440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0832-binary-tree-pruning) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-all-possible-full-binary-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0930-all-possible-full-binary-trees) |
@@ -1492,6 +1496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0687-longest-univalue-path) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0832-binary-tree-pruning) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-all-possible-full-binary-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0930-all-possible-full-binary-trees) |
