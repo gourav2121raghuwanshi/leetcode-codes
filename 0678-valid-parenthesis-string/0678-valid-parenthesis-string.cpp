@@ -1,26 +1,27 @@
 class Solution {
-    int dp[101][101];
-    bool solve(int lpc, int i, string& s) {
-        if (i >= s.size()) {
-            return lpc == 0;
-        }
-        if(lpc<0) return false;
-        if (dp[i][lpc] != -1)
-            return dp[i][lpc];
-        if (s[i] == '(') {
-            return dp[i][lpc] = solve(lpc + 1, i + 1, s);
-        } else if (s[i] == ')') {
-            return dp[i][lpc] = solve(lpc-1, i + 1, s);
-        } else {
-            return dp[i][lpc] = solve(lpc + 1, i + 1, s) ||
-                                     solve(lpc-1, i + 1, s) ||
-                                     solve(lpc, i + 1, s);
-        }
-    }
-
 public:
     bool checkValidString(string s) {
-        memset(dp, -1, sizeof(dp));
-        return solve( 0, 0, s);
+        // range : mini to maxi
+        // if mini is 0, then possible
+        int mini = 0;
+        int maxi = 0;
+        
+        for (auto &i : s) {
+            if (i == '(') {
+                ++mini;
+                ++maxi;
+            } else if (i == ')') {
+                --mini;
+                --maxi;
+            } else { // '*' can be '(', ')' or ''
+                --mini; // Ensure mini is never negative
+                ++maxi;
+            }
+            
+            if (maxi < 0) return false; // Too many ')'
+            if(mini<0) mini=0;
+        }
+        
+        return mini == 0; // If mini is 0, it's a valid string
     }
 };
