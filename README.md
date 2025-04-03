@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0685-redundant-connection-ii) |
@@ -1251,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0565-array-nesting) |
 | [0652-find-duplicate-subtrees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0685-redundant-connection-ii) |
@@ -1429,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0687-longest-univalue-path) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1484,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0687-longest-univalue-path) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0784-insert-into-a-binary-search-tree) |
