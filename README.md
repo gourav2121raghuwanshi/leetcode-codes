@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0869-similar-string-groups) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0883-car-fleet) |
+| [0890-lemonade-change](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
+| [0890-lemonade-change](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1251-longest-chunked-palindrome-decomposition) |
