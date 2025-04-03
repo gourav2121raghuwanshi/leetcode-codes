@@ -11,25 +11,26 @@
  */
 class Solution {
     int ans;
-    int getSumAtCurrSubTree(TreeNode*root,int &currSum){
+    int getSumAtCurrSubTree(TreeNode*root){
         if(!root) return 0;
-        int left=getSumAtCurrSubTree(root->left,currSum);
-        int right=getSumAtCurrSubTree(root->right,currSum);
-        currSum=max({root->val,currSum,root->val+left,root->val+right,root->val+right+left});
+        int left=getSumAtCurrSubTree(root->left);
+        int right=getSumAtCurrSubTree(root->right);
+        ans=max({ans,root->val+left,root->val+right,root->val,left+root->val+right});
         return max({root->val+left,root->val+right,root->val});
     }
-    void solve(TreeNode*root){
-        if(!root) return ;
-        int currSum=-1e9;
-        getSumAtCurrSubTree(root,currSum);
-        ans=max(ans,currSum);
-        solve(root->left);
-        solve(root->right);
-    }
+    // int solve(TreeNode*root){
+    //     if(!root) return 0;
+    //     // int currSum=-1e9;
+    //     int currSum = getSumAtCurrSubTree(root);
+    //     ans=max(ans,currSum);
+    //     int left=solve(root->left);
+    //     int right=solve(root->right);
+    //     return max({currSum,left,right,root->val+left+right});
+    // }
 public:
     int maxPathSum(TreeNode* root) {
         ans=INT_MIN;
-        solve(root);
+        getSumAtCurrSubTree(root);
         return ans;
     }
 };
