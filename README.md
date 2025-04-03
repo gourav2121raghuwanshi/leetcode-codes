@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0399-evaluate-division) |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0241-different-ways-to-add-parentheses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0306-additive-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0394-decode-string) |
@@ -1244,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0332-reconstruct-itinerary) |
 | [0341-flatten-nested-list-iterator](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0365-water-and-jug-problem) |
@@ -1430,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1489,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0543-diameter-of-binary-tree) |
@@ -1527,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0352-data-stream-as-disjoint-intervals) |
