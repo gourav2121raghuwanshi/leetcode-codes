@@ -1,31 +1,35 @@
 class MedianFinder {
 public:
-    multiset<int>left;
-    multiset<int>right;
+    // multiset<int>left;
+    // multiset<int>right;
+    priority_queue<int>left;
+    priority_queue<int,vector<int>,greater<>>right;
     MedianFinder() {
     }
     
     void addNum(int num) {
-        left.insert(num);
-        auto it=left.end();
-        --it;
-        right.insert(*it);
-        left.erase(it);
+        // left.insert(num);
+        left.push(num);
+        // auto it=left.end();
+        // --it;
+        // right.insert(*it);
+        // left.erase(it);
+        right.push(left.top());
+        left.pop();
         if(right.size()-left.size()>1){
-            left.insert(*right.begin());
-            right.erase(right.begin());
+            // left.insert(*right.begin());
+            // right.erase(right.begin());
+            left.push(right.top());
+            right.pop();
         }
     }
     
     double findMedian() {
         if(right.empty()) return -1.0;
         if(left.size()==right.size()){
-            double val1=*right.begin();
-            auto it=left.end();
-            --it;
-            return (val1+ (*it))*1.0/2;
+            return (right.top()+ left.top() )*1.0/2;
         }else {
-            return *right.begin();
+            return right.top();
         }
     }
 };
