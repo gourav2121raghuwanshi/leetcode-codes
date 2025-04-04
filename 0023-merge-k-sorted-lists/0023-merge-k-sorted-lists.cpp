@@ -16,23 +16,22 @@ class Solution {
 
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        ListNode* ans = new ListNode(-1);
-        ListNode* tail = ans;
         priority_queue<ListNode*, vector<ListNode*>, comp> pq;
+        ListNode*head=nullptr;
+        ListNode*tail=nullptr;
         for(auto&i:lists){
-            if(i!=NULL)
-            pq.push(i);
+            if(i!=nullptr) pq.push(i);
         }
         while(!pq.empty()){
-            auto front=pq.top();
-            pq.pop();
-            tail->next=front;
-            tail=tail->next;
-            if(front->next){
-                pq.push(front->next);
+            auto t=pq.top(); pq.pop();
+            if(head==nullptr){
+                head=tail=t;
+            }else{
+                tail->next=t;
+                tail=tail->next;
             }
+            if(t->next) pq.push(t->next);
         }
-        tail->next=NULL;
-        return ans->next;
+        return head;
     }
 };
