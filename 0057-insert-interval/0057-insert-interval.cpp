@@ -1,12 +1,13 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        vector<vector<int>>ans;
-        int n=intervals.size();
-        for(int i=0;i<n;++i){
+        if(intervals.empty()) return {newInterval};
+        vector<int>curr=intervals[0];
+         vector<vector<int>>ans;
+        for(int i=0;i<intervals.size();++i){
             if(intervals[i][1]<newInterval[0]){
-                ans.push_back(intervals[i]);
-            }else if(newInterval[1]<intervals[i][0]){
+            ans.push_back(intervals[i]);
+            }else if(intervals[i][0]>newInterval[1]){
                 ans.push_back(newInterval);
                 newInterval=intervals[i];
             }else{
@@ -15,6 +16,7 @@ public:
             }
         }
         ans.push_back(newInterval);
-        return ans;
+
+         return ans;
     }
 };
