@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-bus-routes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0869-similar-string-groups) |
+| [0876-hand-of-straights](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0890-lemonade-change) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0808-number-of-matching-subsequences) |
 | [0833-bus-routes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0833-bus-routes) |
 | [0869-similar-string-groups](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0869-similar-string-groups) |
+| [0876-hand-of-straights](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0770-couples-holding-hands) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
+| [0876-hand-of-straights](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0808-number-of-matching-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0808-number-of-matching-subsequences) |
+| [0876-hand-of-straights](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0959-3sum-with-multiplicity) |
