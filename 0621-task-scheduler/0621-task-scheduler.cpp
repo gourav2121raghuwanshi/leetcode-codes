@@ -5,39 +5,35 @@ public:
         for (auto& i : tasks) {
             ++freq[i - 'A'];
         }
-        priority_queue<pair<int, char>>      pq;
+
+        priority_queue<int> pq;
         for (int i = 0; i < 26; ++i) {
-            if (freq[i] != 0) {
-                pq.push({freq[i], i + 'A'});
-            }
+            if (freq[i] > 0)
+                pq.push(freq[i]);
         }
+
         int ans = 0;
+
         while (!pq.empty()) {
-            auto top = pq.top();
-            pq.pop();
-            ++ans;
-            top.first--;
-            vector<pair<int, char>> v;
-            int k = n;
-            if(pq.empty() && top.first>0){
-                ans+=k;
-                if(top.first)pq.push(top);
-                continue;
-            }else if(pq.empty() && top.first==0) break;
-            while (k-- ) {
-                ++ans;
+            vector<int> temp;
+            for (int i = 1; i <= n + 1; ++i) {
                 if (!pq.empty()) {
-                    auto t = pq.top();
+                    int top = pq.top();
                     pq.pop();
-                    t.first--;
-                    if (t.first)
-                        v.push_back(t);
+                    --top;
+                     temp.push_back(top);
                 }
-                if(pq.empty() && top.first==0) break;
             }
-            if(top.first)pq.push(top);
-            for (auto& i : v)
-                pq.push(i);
+
+            for (auto& j : temp) {
+                if (j > 0) {
+                    pq.push(j);
+                }
+            }
+            if (pq.empty())
+                ans += temp.size();
+            else
+                ans += n + 1;
         }
         return ans;
     }
