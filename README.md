@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0053-maximum-subarray) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0053-maximum-subarray) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0086-partition-list) |
@@ -1179,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -1614,6 +1618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0496-next-greater-element-i) |
