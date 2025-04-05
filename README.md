@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2089-maximum-matrix-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2145-grid-game) |
@@ -921,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1522-stone-game-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -1654,6 +1657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1940-maximum-xor-for-each-query](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2276-groups-of-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2276-groups-of-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1770,6 +1774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0204-count-primes) |
 | [1212-sequential-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1212-sequential-digits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Binary Search Tree
@@ -1848,6 +1853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0062-unique-paths) |
 | [0956-number-of-music-playlists](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0956-number-of-music-playlists) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Rolling Hash
 |  |
