@@ -1,29 +1,29 @@
 class Solution {
 public:
-    vector<int> asteroidCollision(vector<int>& as) {
-        vector<int> ans;
-
-        for (int i = 0; i < as.size(); ++i) {
-            // Case 1: No collision, push the asteroid
-            if (ans.empty() || as[i] > 0 || ans.back() < 0) {
-                ans.push_back(as[i]);
+    vector<int> asteroidCollision(vector<int>& asteroids) {
+        vector<int> v;
+        for (auto& i : asteroids) {
+            if (v.empty())
+                v.push_back(i);
+            else if (i > 0) {
+                // moving to right
+                v.push_back(i);
             } else {
-                // Case 2: Potential collision
-                while (!ans.empty() && ans.back() > 0 && ans.back() < abs(as[i])) {
-                    ans.pop_back(); // Remove smaller positive asteroid
+                bool equal = false;
+                while (!v.empty() && v.back() > 0 && v.back() <= abs(i)) {
+                    if (v.back() == abs(i)) {
+                        equal = true;
+                        v.pop_back();
+                        break;
+                    }
+                    v.pop_back();
                 }
-
-                // Case 3: Same size, both explode
-                if (!ans.empty() && ans.back() > 0 && ans.back() == abs(as[i])) {
-                    ans.pop_back();
-                }
-                // Case 4: Push negative asteroid if no more collision
-                else if (ans.empty() || ans.back() < 0) {
-                    ans.push_back(as[i]);
-                }
+                if (!v.empty() && v.back() > 0 && v.back() > abs(i))
+                    continue;
+                if (!equal)
+                    v.push_back(i);
             }
         }
-
-        return ans;
+        return v;
     }
 };
