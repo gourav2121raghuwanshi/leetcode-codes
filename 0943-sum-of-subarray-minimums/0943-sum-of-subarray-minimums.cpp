@@ -1,38 +1,26 @@
 class Solution {
 public:
     int sumSubarrayMins(vector<int>& arr) {
-        int n = arr.size();
-        const int mod = 1e9 + 7;
-        stack<int> st;
-        vector<int> prevSmall(n), nextSmall(n);
-
-        // Calculate previous smaller elements
-        for (int i = 0; i < n; ++i) {
-            while (!st.empty() && arr[st.top()] >= arr[i]) st.pop();
-            prevSmall[i] = st.empty() ? -1 : st.top();
+        const int mod=1e9+7;
+        int n=arr.size();
+        vector<int>prevSmall(n,-1);
+        vector<int>nextSmall(n,n);
+        stack<int>st;
+        for(int i=0;i<n;++i){
+            while(!st.empty() && arr[st.top()]>=arr[i]) st.pop();
+            if(!st.empty()) prevSmall[i]=st.top();
             st.push(i);
         }
-
-        // Clear the stack for reuse
-        while (!st.empty()) st.pop();
-
-        // Calculate next smaller elements
-        for (int i = n - 1; i >= 0; --i) {
-            while (!st.empty() && arr[st.top()] > arr[i]) st.pop();
-            nextSmall[i] = st.empty() ? n : st.top();
+        while(!st.empty()) st.pop();
+        for(int i=n-1;i>=0;--i){
+            while(!st.empty() && arr[st.top()]>arr[i]) st.pop();
+            if(!st.empty()) nextSmall[i]=st.top();
             st.push(i);
         }
-
-
-        // Calculate the result
-        long long ans = 0;
-        for (int i = 0; i < n; ++i) {
-            long long next = nextSmall[i] - i;
-            long long prev = i - prevSmall[i];
-            // cout<<next<<" ,,"<<prev<<endl;
-            ans = (ans + arr[i] * next % mod * prev % mod) % mod;
+        int ans=0;
+        for(int i=0;i<n;++i){
+            ans = (ans*1LL+ ((nextSmall[i]-i)*1LL*(i-prevSmall[i]))*1LL*arr[i])%mod;
         }
-
         return ans;
     }
 };
