@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0455-assign-cookies) |
@@ -1052,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1196,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
 | [0341-flatten-nested-list-iterator](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -1623,6 +1626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
