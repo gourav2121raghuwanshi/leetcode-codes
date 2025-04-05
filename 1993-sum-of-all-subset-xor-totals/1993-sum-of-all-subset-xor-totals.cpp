@@ -1,16 +1,18 @@
 class Solution {
-    int ans=0;
-    void solve(int i,int xo,vector<int>& nums){
+    int dp[13][50];
+    int solve(int i,int xo,vector<int>& nums){
         if(i>=nums.size()){
-            ans+=xo;
-            return;
+            return xo;
         }
-        solve(i+1,xo^nums[i],nums);
-        solve(i+1,xo,nums);
+        if(dp[i][xo]!=-1) return dp[i][xo];
+        int take=solve(i+1,xo^nums[i],nums);
+        int ntake=solve(i+1,xo,nums);
+        return dp[i][xo] =  take+ntake;
     }
 public:
     int subsetXORSum(vector<int>& nums) {
-        solve(0,0,nums);
-        return ans;
+        memset(dp,-1,sizeof(dp));
+        return solve(0,0,nums);
+   
     }
 };
