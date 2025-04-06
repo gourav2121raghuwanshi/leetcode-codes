@@ -949,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0189-rotate-array) |
@@ -1715,6 +1716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0394-decode-string) |
