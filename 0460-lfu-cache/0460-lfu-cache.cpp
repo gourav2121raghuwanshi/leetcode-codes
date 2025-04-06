@@ -1,54 +1,69 @@
+
 class LFUCache {
-public:
-    map<int,list<vector<int>>>mp; //{ freq_cnt, key,value,freq_cnt}
-    unordered_map<int,list<vector<int>>::iterator>address; //{key,address}
-    int cap;
+
     int size;
+    int c;
+    map<int, list<vector<int>>> mp; // freq, {key,val,freq}
+    unordered_map<int, list<vector<int>>::iterator> address; // key, pointer
+public:
     LFUCache(int capacity) {
-        cap=capacity;
-        size=0;
-    }                        
-    
-    void makeMostRecent(int key){
-        auto&addrs=*address[key];
-        int f=addrs[2];
-        int v=addrs[1];
-        mp[f].erase(address[key]);
-        if(mp[f].empty()){
-            mp.erase(f);
-        }
-        ++f;
-        mp[f].push_front({key,v,f});
-        address[key]=mp[f].begin();
+        size = capacity;
+        c = 0;
     }
+
     int get(int key) {
-        if(address.find(key)==address.end()) return -1;
-        auto addrs=*address[key];
-        int val=addrs[1];
-        makeMostRecent(key);
-        return val;
+        if (address.count(key)) {
+            vector<int> v = *address[key];
+            int val = v[1];
+            int f = v[2];
+            mp[f].erase(address[key]);
+            if (mp[f].empty())
+                mp.erase(f);
+            ++f;
+            v[2] = f;
+            mp[f].push_front(v);
+            address[key] = mp[f].begin();
+            return val;
+        } else
+            return -1;
     }
-    
+
     void put(int key, int value) {
-        if(cap==0) return;
-        if(address.find(key)!=address.end()){
-            auto&addrs=*address[key];
-            addrs[1]=value;
-            makeMostRecent(key);
-        }else{
-            if(size==cap){
-                auto &list_to_delete= mp.begin()->second;
-                int key_to_del=list_to_delete.back()[0];
-                list_to_delete.pop_back();
-                address.erase(key_to_del);
-                if(list_to_delete.empty()){
-                    mp.erase(mp.begin()->first);
-                }
-               --size;
+        if (size == 0)
+            return;
+
+        if (address.count(key)) {
+            vector<int> v = *address[key];
+            int val = v[1];
+            int f = v[2];
+            mp[f].erase(address[key]);
+            if (mp[f].empty())
+                mp.erase(f);
+            ++f;
+            v[2] = f;
+            v[1] = value;
+            mp[f].push_front(v);
+            address[key] = mp[f].begin();
+        } else {
+            if (c + 1 <= size) {
+                ++c;
+                vector<int> v = {key, value, 1};
+                mp[1].push_front(v);
+                address[key] = mp[1].begin();
+            } else {
+                auto& to_delete = mp.begin()->second;
+                int f = to_delete.back()[2];
+                int v = to_delete.back()[1];
+                int k = to_delete.back()[0];
+                mp[f].erase(address[k]);
+
+                if (mp[f].empty())
+                    mp.erase(f);
+                address.erase(k);
+                vector<int> vv = {key, value, 1};
+                mp[1].push_front(vv);
+                address[key] = mp[1].begin();
             }
-            ++size;
-            mp[1].push_front({key,value,1});
-            address[key]=mp[1].begin();
         }
     }
 };
