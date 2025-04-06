@@ -1,25 +1,46 @@
 class Solution {
-    /*
-    CurrentResult = result_so_Far - prevValue + (prevVaue * currValue);
-    ✅ Is always correct for handling * after a + or - when parsing expressions like "2+3*4" in left-to-right       single-pass evaluation (without using a full operator precedence parser or stack), as long as you're careful with signs.
-    // 3+2*4 (first * has to be evaluated)
-// logic to evaluate * :
-// Result_so_far - prevValue + currValue * prevValue
-// ex: 2+3*4 
-// Result_so_far=3+2 = 5
-// prevValue=2
-currValue=4
-//  we got : 5 - 2 + 2*4 
-// addition and substraction are simple
-    */
+// Three Concepts for this Problem
 
+/***************************** Concept 1 *****************************************
+To correctly evaluate expressions like "2+3*4" in a single left-to-right pass,
+we use the formula:
 
-    /*
-    sending prevValue for next iteration 
-    prevValue for + : => currValue
-    prevValue for - : => -currValue
-    prevValue for * : => prevValue*currValue
-    */
+    result_so_far = result_so_far - prevValue + (prevValue * currValue);
+
+✅ This correctly handles * (multiplication) after + or - without using a full
+   expression parser or operator precedence.
+
+Example:
+    Expression: 2+3*4
+    After evaluating 2+3 → result_so_far = 5
+    prevValue = 3, currValue = 4
+
+    So we compute: 5 - 3 + 3*4 = 14 ✅
+--------------------------------------------------------------------------------*/
+
+/********************************* Concept 2 *****************************************
+Carry the correct prevValue into the next recursive call:
+
+- For + : prevValue =  currValue
+- For - : prevValue = -currValue
+- For * : prevValue =  prevValue * currValue
+--------------------------------------------------------------------------------*/
+
+/********************************* Concept 3 *****************************************
+To avoid forming numbers with leading zeros (e.g., "05", "003"):
+
+    if (j > i && num[i] == '0') break;
+
+This allows a single '0' but skips any longer number starting with '0'.
+
+Example:
+    Input: "105"
+    i = 1, num[i] = '0'
+
+    num.substr(1, 1) → "0" ✅
+    num.substr(1, 2) → "05" ❌ (leading zero, invalid)
+--------------------------------------------------------------------------------*/
+
     vector<string> ans;
     void solve(string& num, int target, int i, string path, long long prevValue,
                long long result_so_far) {
