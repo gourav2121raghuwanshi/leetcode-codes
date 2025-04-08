@@ -16,7 +16,7 @@ public:
                 if(mp[nums[i]]==0) mp.erase(nums[i]);
                 ++i;
             }
-            cout<<mp.size()<<" - "<<nums.size()-c<<endl;
+            // cout<<mp.size()<<" - "<<nums.size()-c<<endl;
             
         }
         return ans;
