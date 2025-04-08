@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1881-closest-subsequence-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1881-closest-subsequence-sum) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1917-maximum-average-pass-ratio) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1814-jump-game-vi](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1814-jump-game-vi) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1881-closest-subsequence-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1881-closest-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2164-two-best-non-overlapping-events) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1881-closest-subsequence-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1881-closest-subsequence-sum) |
 | [1972-rotating-the-box](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1881-closest-subsequence-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1881-closest-subsequence-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2164-two-best-non-overlapping-events) |
@@ -1698,6 +1702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1881-closest-subsequence-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1881-closest-subsequence-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1870,6 +1875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1881-closest-subsequence-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Counting Sort
 |  |
