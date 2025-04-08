@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-jump-game-vi](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1814-jump-game-vi) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2262-solving-questions-with-brainpower) |
 | [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2232-adding-spaces-to-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1188,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2530-minimize-maximum-of-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2530-minimize-maximum-of-array) |
@@ -1697,6 +1701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2276-groups-of-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2276-groups-of-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -1758,6 +1763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0931-maximum-frequency-stack) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2161-stock-price-fluctuation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2161-stock-price-fluctuation) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2434-design-a-number-container-system](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2868-continuous-subarrays) |
 ## Sliding Window
@@ -1864,6 +1870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Counting Sort
 |  |
 | ------- |
