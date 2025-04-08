@@ -929,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0131-palindrome-partitioning) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0204-count-primes) |
@@ -1684,6 +1686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0201-bitwise-and-of-numbers-range) |
