@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2562-count-ways-to-build-good-strings) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Binary Indexed Tree
@@ -1008,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3568-find-the-key-of-the-numbers) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2727-number-of-senior-citizens) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3451-string-compression-iii) |
