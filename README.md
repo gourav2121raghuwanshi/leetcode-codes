@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1753-path-with-minimum-effort) |
@@ -1832,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0204-count-primes) |
 | [1212-sequential-digits](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1212-sequential-digits) |
+| [1656-count-good-triplets](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/2998-count-symmetric-integers) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3594-identify-the-largest-outlier-in-an-array) |
