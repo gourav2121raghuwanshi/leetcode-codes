@@ -868,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3430-count-days-without-meetings) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3721-count-mentions-per-user](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3721-count-mentions-per-user) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Matrix
 |  |
 | ------- |
@@ -1165,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-find-mirror-score-of-a-string](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3634-find-mirror-score-of-a-string) |
 | [3684-substring-matching-pattern](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3684-substring-matching-pattern) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1893,6 +1895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/0948-sort-an-array) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/gourav2121raghuwanshi/leetcode-codes/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Data Stream
 |  |
 | ------- |
