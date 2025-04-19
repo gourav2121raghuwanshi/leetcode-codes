@@ -11,7 +11,7 @@ public:
             int h = n - 1;
             
             // Find the smallest j such that nums[i] + nums[j] >= lower
-            int low_idx = lower_bound(nums.begin() + i + 1, nums.end(), lower - nums[i]) - nums.begin();
+int low_idx = lower_bound(nums.begin() + i + 1, nums.end(), lower - nums[i]) - nums.begin();
             // Find the largest j such that nums[i] + nums[j] <= upper
             int high_idx = upper_bound(nums.begin() + i + 1, nums.end(), upper - nums[i]) - nums.begin() - 1;
             
